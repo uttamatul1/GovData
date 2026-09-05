@@ -1,0 +1,90 @@
+{
+  "poverty_hcr": [
+    {
+      "year": 2004,
+      "value": 37.2,
+      "source": "Planning Commission 2004-05",
+      "dataType": "official"
+    },
+    {
+      "year": 2009,
+      "value": 29.8,
+      "source": "Planning Commission 2009-10",
+      "dataType": "official"
+    },
+    {
+      "year": 2011,
+      "value": 21.9,
+      "source": "Planning Commission 2011-12",
+      "dataType": "official"
+    },
+    {
+      "year": 2015,
+      "value": 24.8,
+      "source": "NITI Aayog MPI Baseline (2015-16)",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 14.96,
+      "source": "NITI Aayog MPI 2023 (2019-21 Period)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 11.28,
+      "source": "NITI Aayog Progress Estimate (2019-21 Model)",
+      "dataType": "projected"
+    },
+    {
+      "year": 2024,
+      "value": 9.8,
+      "source": "NITI Aayog SDG Projection",
+      "dataType": "projected"
+    }
+  ],
+  "hdi": [
+    {
+      "year": 2000,
+      "value": 0.493,
+      "source": "UNDP HDR 2002",
+      "dataType": "official"
+    },
+    {
+      "year": 2005,
+      "value": 0.535,
+      "source": "UNDP HDR 2007",
+      "dataType": "official"
+    },
+    {
+      "year": 2010,
+      "value": 0.581,
+      "source": "UNDP HDR 2013",
+      "dataType": "official"
+    },
+    {
+      "year": 2015,
+      "value": 0.624,
+      "source": "UNDP HDR 2016",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 0.633,
+      "source": "UNDP HDR 2020",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 0.633,
+      "source": "UNDP HDR 2022",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 0.644,
+      "source": "UNDP HDR Est.",
+      "dataType": "estimated"
+    }
+  ]
+}

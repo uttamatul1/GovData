@@ -1,0 +1,196 @@
+{
+  "lfpr": [
+    {
+      "year": 2011,
+      "value": 38.6,
+      "source": "NSS 68th Round",
+      "dataType": "official"
+    },
+    {
+      "year": 2017,
+      "value": 36.9,
+      "source": "PLFS 2017-18",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 37.5,
+      "source": "PLFS 2018-19",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 40.1,
+      "source": "PLFS 2019-20",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 39.8,
+      "source": "PLFS 2020-21",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 41.3,
+      "source": "PLFS 2021-22",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 41.7,
+      "source": "PLFS 2022-23",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 60.1,
+      "source": "PLFS 2023-24 (Usual Status)",
+      "dataType": "official"
+    }
+  ],
+  "unemployment": [
+    {
+      "year": 2011,
+      "value": 5.5,
+      "source": "NSS 68th Round (Usual Status)",
+      "dataType": "official"
+    },
+    {
+      "year": 2017,
+      "value": 6.1,
+      "source": "PLFS 2017-18 (Usual Status)",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 5.8,
+      "source": "PLFS 2018-19 (Usual Status)",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 4.8,
+      "source": "PLFS 2019-20 (Usual Status)",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 4.2,
+      "source": "PLFS 2020-21 (Usual Status)",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 4.1,
+      "source": "PLFS 2021-22 (Usual Status)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 3.2,
+      "source": "PLFS 2022-23 (Usual Status PS+SS)",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 3.1,
+      "source": "PLFS 2023-24 (Usual Status PS+SS)",
+      "dataType": "official"
+    }
+  ],
+  "female_lfpr": [
+    {
+      "year": 2011,
+      "value": 18.2,
+      "source": "NSS 68th Round",
+      "dataType": "official"
+    },
+    {
+      "year": 2017,
+      "value": 17.5,
+      "source": "PLFS 2017-18",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 18.6,
+      "source": "PLFS 2018-19",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 22.8,
+      "source": "PLFS 2019-20",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 25.1,
+      "source": "PLFS 2020-21",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 27.7,
+      "source": "PLFS 2021-22",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 32.8,
+      "source": "PLFS 2022-23",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 41.7,
+      "source": "PLFS 2023-24 (Usual Status)",
+      "dataType": "official"
+    }
+  ],
+  "youth_unemp": [
+    {
+      "year": 2011,
+      "value": 19.8,
+      "source": "NSS 68th Round",
+      "dataType": "official"
+    },
+    {
+      "year": 2017,
+      "value": 17.8,
+      "source": "PLFS 2017-18",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 15.3,
+      "source": "PLFS 2019-20",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 16.5,
+      "source": "PLFS 2020-21",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 12.9,
+      "source": "PLFS 2021-22",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 12.4,
+      "source": "PLFS 2022-23",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 11.5,
+      "source": "PLFS 2023-24 (Prelim.)",
+      "dataType": "estimated"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "total_pop": [
+    {
+      "year": 2001,
+      "value": 102.87,
+      "source": "Census of India 2001",
+      "dataType": "official"
+    },
+    {
+      "year": 2006,
+      "value": 111.8,
+      "source": "RGI Population Projection (2006)",
+      "dataType": "projected"
+    },
+    {
+      "year": 2011,
+      "value": 121.09,
+      "source": "Census of India 2011",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 130.9,
+      "source": "RGI Population Projection (2016)",
+      "dataType": "projected"
+    },
+    {
+      "year": 2021,
+      "value": 139.34,
+      "source": "RGI Technical Group Projection (2021)",
+      "dataType": "projected"
+    },
+    {
+      "year": 2024,
+      "value": 142.86,
+      "source": "UN DESA World Population Prospects (2024 Projection)",
+      "dataType": "projected"
+    }
+  ],
+  "sex_ratio": [
+    {
+      "year": 2001,
+      "value": 933,
+      "source": "Census of India 2001",
+      "dataType": "official"
+    },
+    {
+      "year": 2011,
+      "value": 943,
+      "source": "Census of India 2011",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 991,
+      "source": "NFHS-4 Survey (2015-16)",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 1020,
+      "source": "NFHS-5 Survey (2019-21)",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 1025,
+      "source": "RGI Technical Group Projection",
+      "dataType": "projected"
+    }
+  ]
+}

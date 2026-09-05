@@ -1,0 +1,2896 @@
+{
+  "literacy_rate": {
+    "IN-KL": [
+      {
+        "year": 2001,
+        "value": 90.86,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 94,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 96.2,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 95.3,
+        "source": "PLFS 2023-24 (Age 7+)",
+        "dataType": "official"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2001,
+        "value": 76.88,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 82.34,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 84.8,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 87.1,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2001,
+        "value": 73.45,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 80.09,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 82.9,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 85.6,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2001,
+        "value": 69.14,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 78.03,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 81.2,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 83.8,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2001,
+        "value": 66.64,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 75.36,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 77.2,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 80.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2001,
+        "value": 56.27,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 67.68,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 73,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 76.4,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2001,
+        "value": 47,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 61.8,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 70.9,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 74.2,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2001,
+        "value": 60.41,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 66.11,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 69.7,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 73.1,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2001,
+        "value": 63.74,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 69.32,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 73.7,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 76.8,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2001,
+        "value": 68.64,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 76.26,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 80.5,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 82.9,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2001,
+        "value": 69.65,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 75.84,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 83.7,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 86,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2001,
+        "value": 67.91,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 75.55,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 80.4,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 83.1,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2001,
+        "value": 60.47,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 67.35,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 72.8,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 76.1,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2011,
+        "value": 66.46,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 72.8,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 76.4,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2001,
+        "value": 63.08,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 72.87,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 77.1,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 80.2,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2001,
+        "value": 53.56,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 66.41,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 72.3,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 75.8,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2001,
+        "value": 64.66,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 70.28,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 73.9,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 76.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2001,
+        "value": 63.25,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 72.19,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 77.8,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 80.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2001,
+        "value": 81.67,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 86.21,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 88.7,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 90.1,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2001,
+        "value": 54.74,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 65.38,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 72,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 74.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2001,
+        "value": 82.01,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 87.4,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 90.5,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 91.2,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2001,
+        "value": 76.48,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 82.8,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 86.6,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 88.9,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2001,
+        "value": 68.87,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 76.94,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 80.5,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 82.8,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2001,
+        "value": 62.56,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 74.43,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 78.2,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 80.6,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2001,
+        "value": 88.49,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 91.33,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 92.8,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 93.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2001,
+        "value": 66.59,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 79.55,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 82,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 83.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2001,
+        "value": 68.81,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 81.42,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 85.3,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 87.1,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2001,
+        "value": 73.19,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 87.22,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 91,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 92.3,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2001,
+        "value": 71.62,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 78.82,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 83,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 85.5,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2001,
+        "value": 55.52,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 67.16,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 72,
+        "source": "NSO 75th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 75.8,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2011,
+        "value": 77.2,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 82,
+        "source": "MoE Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "ger_secondary": {
+    "IN-KL": [
+      {
+        "year": 2010,
+        "value": 92.1,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 97.5,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 99.8,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 100,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 100,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2010,
+        "value": 85,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 92.1,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 93.5,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 94.8,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 95.2,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2010,
+        "value": 78.4,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 84.6,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 87.1,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 88.5,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 89,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2010,
+        "value": 52.3,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 63.2,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 68.4,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 70.9,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 72.8,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2010,
+        "value": 41.5,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 54.1,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 62.8,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 66.4,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 68.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2010,
+        "value": 66.8,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 74.2,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 77.9,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 79.4,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 80.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2010,
+        "value": 72,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 81.3,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 84.5,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 85.9,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 86.8,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2010,
+        "value": 58.2,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 67.4,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 71.2,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 73.5,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 75,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2010,
+        "value": 60.1,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 70.3,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 74.8,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 76.9,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 78.4,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2010,
+        "value": 68.5,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 75.8,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 79.2,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 81,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 82.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2010,
+        "value": 75.2,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 82.5,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 85.9,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 87.4,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 88.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2010,
+        "value": 76.8,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 84.1,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 87.3,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 88.9,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 90,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2010,
+        "value": 75.4,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 84.6,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 88.2,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 90,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 91.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2016,
+        "value": 78.5,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 83.2,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 85,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 86.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2010,
+        "value": 56.8,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 68.3,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 74.6,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 77.1,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 78.9,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2010,
+        "value": 55.6,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 65.8,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 71.4,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 73.8,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 75.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2010,
+        "value": 51.2,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 62.5,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 68.1,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 70.5,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 72.2,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2010,
+        "value": 53.4,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 64.7,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 71.2,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 73.6,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 75.3,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2010,
+        "value": 83.2,
+        "source": "DISE",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 90.5,
+        "source": "UDISE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 93.8,
+        "source": "UDISE+ 2020-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 95.2,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 96,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2015,
+        "value": 65.2,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 75.8,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 82.3,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 85,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2012,
+        "value": 93.5,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 97.2,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 101.4,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 103.6,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 105,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2012,
+        "value": 87.6,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 94.3,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 100.8,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 103.2,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 105,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2015,
+        "value": 70.5,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 78.4,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 83.6,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 86,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2015,
+        "value": 62.8,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 72.3,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 78.5,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 81,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2015,
+        "value": 72.4,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 81.6,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 87.3,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 90,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2015,
+        "value": 55.3,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 63.8,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 70.2,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 73.5,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2015,
+        "value": 85.6,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 93.2,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 98.4,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 101,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2015,
+        "value": 70.8,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 81.5,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 88.2,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 91,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2012,
+        "value": 80.5,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 86.4,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 93.7,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 97.8,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 100,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2012,
+        "value": 56.3,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 63.8,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 72.5,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 78.4,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 82,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2019,
+        "value": 68.5,
+        "source": "UDISE+",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 75.3,
+        "source": "UDISE+ 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 79,
+        "source": "UDISE+ Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "higher_ed_ger": {
+    "IN-TN": [
+      {
+        "year": 2010,
+        "value": 38.2,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 44.3,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 49.5,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 47,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2010,
+        "value": 26.5,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 30.9,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 39.5,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 41.3,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2010,
+        "value": 25.8,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 30.2,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 33.6,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 35.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 38.2,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2010,
+        "value": 21.5,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 25.8,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 29.4,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 31.2,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2010,
+        "value": 22.8,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 27.4,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 31.8,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 33.5,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 36.2,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2010,
+        "value": 23.4,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 28.7,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 31.2,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 32.9,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 35.1,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2010,
+        "value": 19.8,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 24.1,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 28.5,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 30.2,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2010,
+        "value": 16.5,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 21.3,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 25.7,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 27.4,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 29.8,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2010,
+        "value": 18.2,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 22.5,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 27.4,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 25.1,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 27.6,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2010,
+        "value": 10.4,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 13.6,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 16.5,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 17.1,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2010,
+        "value": 20.2,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 24.8,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 28.1,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 30.4,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32.8,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2010,
+        "value": 14.5,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 18.2,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 22.8,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 24.5,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 26.8,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2010,
+        "value": 23.1,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 28.5,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 33.8,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 36.4,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 39.2,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2016,
+        "value": 30.5,
+        "source": "AISHE 2016-17",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 36.2,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 38.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 41.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2010,
+        "value": 24.5,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 29.8,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 34.2,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 36.5,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 38.8,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2010,
+        "value": 12.8,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 16.4,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 21.5,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 23.2,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 25.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2010,
+        "value": 11.5,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 15.2,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 19.5,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 21.1,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 23.2,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2010,
+        "value": 35.8,
+        "source": "AISHE 2010-11",
+        "dataType": "official"
+      },
+      {
+        "year": 2014,
+        "value": 42.5,
+        "source": "AISHE 2014-15",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 48.9,
+        "source": "AISHE 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 49,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2015,
+        "value": 18.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 24.8,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 28.3,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 30.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2015,
+        "value": 14.8,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19.2,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 22.5,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 24,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2015,
+        "value": 25.4,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 32.6,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 35.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 37.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2015,
+        "value": 32.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 38.4,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 42.1,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 44,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2015,
+        "value": 22.8,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 28.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 31.6,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2015,
+        "value": 17.3,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 21.8,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 24.5,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 26,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2015,
+        "value": 19.2,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 24.3,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 27.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 29.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2015,
+        "value": 15.6,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 18.9,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 21.5,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 23,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2015,
+        "value": 28.4,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 42.6,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 48.3,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 50,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2015,
+        "value": 13.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19.4,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 22.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 24.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2015,
+        "value": 30.8,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 36.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 39.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 42,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2015,
+        "value": 20.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 27.8,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 31.2,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33.5,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 12.5,
+        "source": "AISHE",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 15.8,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18,
+        "source": "AISHE Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "higher_ed_enrolment": {
+    "IN-AN": [
+      {
+        "year": 2021,
+        "value": 11427,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2021,
+        "value": 1929159,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2021,
+        "value": 64890,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2021,
+        "value": 678012,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2021,
+        "value": 2622946,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2021,
+        "value": 111003,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2021,
+        "value": 656341,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2021,
+        "value": 1145390,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2021,
+        "value": 65415,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2021,
+        "value": 1797662,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2021,
+        "value": 1104532,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2021,
+        "value": 319651,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2021,
+        "value": 400423,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2021,
+        "value": 879965,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2021,
+        "value": 2436540,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2021,
+        "value": 1304445,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2021,
+        "value": 4440,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2021,
+        "value": 88,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2021,
+        "value": 2800165,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2021,
+        "value": 4577843,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2021,
+        "value": 130388,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2021,
+        "value": 96453,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2021,
+        "value": 46771,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2021,
+        "value": 51223,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2021,
+        "value": 1073879,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2021,
+        "value": 94643,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2021,
+        "value": 858744,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2021,
+        "value": 2689340,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2021,
+        "value": 33761,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2021,
+        "value": 3309327,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2021,
+        "value": 1596680,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2021,
+        "value": 12805,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2021,
+        "value": 100551,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2021,
+        "value": 6973424,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2021,
+        "value": 567704,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2021,
+        "value": 2722151,
+        "source": "AISHE 2021-22",
+        "dataType": "official"
+      }
+    ]
+  }
+}

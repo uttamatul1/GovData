@@ -1,0 +1,2446 @@
+{
+  "pci": {
+    "IN-MH": [
+      {
+        "year": 2000,
+        "value": 26348,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 41254,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 87396,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 151883,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 205610,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 183926,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 242247,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 285000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2000,
+        "value": 21744,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 34094,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 76608,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 155869,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 231248,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 214399,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 299150,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 345000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2000,
+        "value": 21778,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 35246,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 78473,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 140360,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 181450,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 180462,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 231199,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 275000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2000,
+        "value": 22652,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 38756,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 89547,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 152490,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 196760,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 177854,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 231200,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 278000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2000,
+        "value": 9765,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 14221,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 26698,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 49524,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 68842,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 65431,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 83565,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 98000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2000,
+        "value": 6415,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 8773,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 19111,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 31444,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 43892,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 43605,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 54111,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 64000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2000,
+        "value": 14432,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 22814,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 49302,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 91862,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 121644,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 122815,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 157952,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 188000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2000,
+        "value": 14086,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 21628,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 52362,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 90869,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 118256,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 115238,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 147690,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 175000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2000,
+        "value": 11240,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 16588,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 35812,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 65889,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 94126,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 92490,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 120348,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 142000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2000,
+        "value": 25026,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 39872,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 86558,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 148876,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 190256,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 181490,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 238150,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 285000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2000,
+        "value": 24126,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 39460,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 90840,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 162834,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 219526,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 210895,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 278632,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 328000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2000,
+        "value": 26428,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 38642,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 73254,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 113420,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 148324,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 150562,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 186546,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 220000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2000,
+        "value": 17582,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 27618,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 57864,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 109632,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 142586,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 143824,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 189264,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 225000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2015,
+        "value": 128900,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 196530,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 193420,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 271254,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 318000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2000,
+        "value": 9843,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 15424,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 38052,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 72158,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 104266,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 105624,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 142580,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 172000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2000,
+        "value": 12406,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 18562,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 39858,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 72450,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 97280,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 93564,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 120548,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 143000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2000,
+        "value": 10625,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 16428,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 38426,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 60248,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 79526,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 77846,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 100148,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 120000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2000,
+        "value": 12450,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 20348,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 45640,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 80248,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 103820,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 100560,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 130240,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 155000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2000,
+        "value": 52548,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 78452,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 139852,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 247364,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 317258,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 296458,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 407256,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 480000,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2012,
+        "value": 72453,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 109828,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 128594,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 155300,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 166000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2012,
+        "value": 192652,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 322280,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 375810,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 482500,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 510000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2012,
+        "value": 92300,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 142168,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 178250,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 225000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 242000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2012,
+        "value": 42178,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 56850,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 68500,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 82000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 88000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2012,
+        "value": 63820,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 82350,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 98400,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 118000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 126000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2012,
+        "value": 62500,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 98450,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 138500,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 175000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 188000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2012,
+        "value": 68420,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 92800,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 105600,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 128000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 138000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2012,
+        "value": 148580,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 271500,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 353200,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 420000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 448000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2012,
+        "value": 52800,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 82600,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 108500,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 135000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 145000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2012,
+        "value": 103500,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 155240,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 190800,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 235000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 252000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2012,
+        "value": 54100,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 75800,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 92400,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 112000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 120000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 145800,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 180000,
+        "source": "RBI / MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 192000,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "gdp_growth": {
+    "IN-MH": [
+      {
+        "year": 2005,
+        "value": 8.9,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 10.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 7.4,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 9.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -8.3,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.6,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.1,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2005,
+        "value": 11.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 10,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 9.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.7,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -2.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.9,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2005,
+        "value": 9.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 10.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 10.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -5.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 11.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.2,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2005,
+        "value": 9.1,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 8.6,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 7.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -4.7,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.4,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2005,
+        "value": 7.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 7.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 6.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 7.6,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -3.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.5,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2005,
+        "value": 8.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 12.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 8.9,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -3.4,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 9.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.8,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2005,
+        "value": 6.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 9.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 9.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -2.9,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 9.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.5,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2005,
+        "value": 8.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 7.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 7.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -4.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.4,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2005,
+        "value": 7.4,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.2,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 8.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -4.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.8,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2005,
+        "value": 9.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 9.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 8.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -5.6,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2005,
+        "value": 6.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 6.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 6.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 5.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -3.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.8,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2005,
+        "value": 8.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 7.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 11.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 9.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -4.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.8,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2015,
+        "value": 14.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 12.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -4.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 11.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.5,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2005,
+        "value": 9.8,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.5,
+        "source": "RBI Handbook",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 7.8,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.5,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": -3.2,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 9.1,
+        "source": "MoSPI GSDP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.5,
+        "source": "MoSPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2016,
+        "value": 4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -1.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.2,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2016,
+        "value": 5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.3,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -2.4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 7.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.5,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2016,
+        "value": 6.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -1.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 7.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.8,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2016,
+        "value": 8.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 7.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -13.7,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 9.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2016,
+        "value": 6.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5.6,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -5.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2016,
+        "value": 7.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -0.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2016,
+        "value": 7.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.5,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2016,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.2,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2016,
+        "value": 5.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -2.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 7,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.2,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2016,
+        "value": 8.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 7.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -1.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.5,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2016,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -3.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2016,
+        "value": 9.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.5,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2016,
+        "value": 8.6,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 7.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -2.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2016,
+        "value": 7.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 7.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.8,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2016,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.5,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2021,
+        "value": -3,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 7,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.5,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2016,
+        "value": 9.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 7.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -4.6,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.8,
+        "source": "RBI Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}

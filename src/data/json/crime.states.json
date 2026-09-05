@@ -1,0 +1,3797 @@
+{
+  "total_crime_rate": {
+    "IN-AP": [
+      {
+        "year": 2016,
+        "value": 213.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 226.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 197.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 244.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 249,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2016,
+        "value": 156.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 168.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 152.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 178.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 183,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2016,
+        "value": 286.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 315.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 275.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 333.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 340,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2016,
+        "value": 154.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 162.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 150.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 178.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 182,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2016,
+        "value": 262.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 278.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 245.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 295.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 301,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2016,
+        "value": 182.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 196.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 170.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 210.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 215,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2016,
+        "value": 191.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 200.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 178.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 206.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 211,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2016,
+        "value": 288.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 275.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 262.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 305.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 312,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2016,
+        "value": 187.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 195.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 172.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 209.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 214,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2016,
+        "value": 143.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 155.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 140.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 168.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 172,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2016,
+        "value": 199.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 222,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 188.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 228.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 233,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2016,
+        "value": 455.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 496.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 469.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 537.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 545,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2016,
+        "value": 301.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 312.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 293.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 332.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 338,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2016,
+        "value": 195.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 202.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 175.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 218.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 224,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2016,
+        "value": 123.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 131.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 118.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 142.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 146,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2016,
+        "value": 155.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 162.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 145.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 174.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 178,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2016,
+        "value": 167.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 178.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 158.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 189.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 194,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2016,
+        "value": 98.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 105.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 92.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 112.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 115,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2016,
+        "value": 213.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 228.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 198.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 245.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 250,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2016,
+        "value": 167.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 178.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 155.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 192.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 197,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2016,
+        "value": 296.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 308.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 274.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 329.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 335,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2016,
+        "value": 112.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 118.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 105.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 128.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 132,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2016,
+        "value": 235.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 248.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 202.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 247.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 251,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2016,
+        "value": 202.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 218.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 195.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 236.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 242,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2016,
+        "value": 184.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 192.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 175.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 205.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 210,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2016,
+        "value": 138.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 148.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 144.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 169.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 172.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2016,
+        "value": 175.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 184.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 163.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 198.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 203,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2016,
+        "value": 96.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 102.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 90.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 115.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 118,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AN": [
+      {
+        "year": 2016,
+        "value": 135.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 124.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 148.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 152,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2016,
+        "value": 382.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 345.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 405.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 412,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2016,
+        "value": 178.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 162.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 195.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 200,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2016,
+        "value": 480.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 501.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 465.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 508.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 512,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2016,
+        "value": 142.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 128.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 158.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 162,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 95.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 108.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 112,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2016,
+        "value": 78.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 68.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 85.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 88,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2016,
+        "value": 234.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 208.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 256.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 262,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "total_cognizable_crime_rate": {},
+  "murder_rate": {
+    "IN-AP": [
+      {
+        "year": 2016,
+        "value": 2.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2016,
+        "value": 4.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 3.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2016,
+        "value": 3.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2016,
+        "value": 3.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2016,
+        "value": 3.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.7,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2016,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2016,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2016,
+        "value": 3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.3,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2016,
+        "value": 1.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2016,
+        "value": 3.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2016,
+        "value": 1.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2016,
+        "value": 1.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2016,
+        "value": 3.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2016,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2016,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2016,
+        "value": 2.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2016,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2016,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2016,
+        "value": 2.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2016,
+        "value": 2.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2016,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.9,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2016,
+        "value": 1.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2016,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2016,
+        "value": 2.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2016,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.9,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2016,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2016,
+        "value": 2.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2016,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AN": [
+      {
+        "year": 2016,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2016,
+        "value": 1.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2016,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2016,
+        "value": 2.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2016,
+        "value": 1.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2022,
+        "value": 0.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2016,
+        "value": 0.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.3,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2016,
+        "value": 1.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "crimes_women": {
+    "IN-AP": [
+      {
+        "year": 2016,
+        "value": 55.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 52.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 63.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 65.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2016,
+        "value": 35.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 33.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 40.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 42.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2016,
+        "value": 116.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 108.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 128.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 132,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2016,
+        "value": 30.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 28.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 35.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 36.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2016,
+        "value": 44.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 42.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 51.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 53.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2016,
+        "value": 28.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 25.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 32.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2016,
+        "value": 38.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 35.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 43.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 45.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2016,
+        "value": 72.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 68.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 82.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 85,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2016,
+        "value": 22.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 20.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 25.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 26.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2016,
+        "value": 32.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 30.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 38.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 40.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2016,
+        "value": 40.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 37.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 46.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 48.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2016,
+        "value": 62.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 58.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 72.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 75,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2016,
+        "value": 70.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 68.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 79.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 82,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2016,
+        "value": 47.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 44.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 55.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 57.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2016,
+        "value": 18.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 16.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 21.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 22.3,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2016,
+        "value": 24.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 22.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 28.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 29.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2016,
+        "value": 20.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 18.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 23.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 24.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2016,
+        "value": 15.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 13.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2016,
+        "value": 62.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 58.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 71.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 74.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2016,
+        "value": 34.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 32.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 40.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 41.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2016,
+        "value": 81.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 79.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 95.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 98,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2016,
+        "value": 14.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 12.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 16.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 17.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2016,
+        "value": 33.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 30.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 38.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 39.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2016,
+        "value": 58.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 54.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 67.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 69.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2016,
+        "value": 38.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 35.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 44.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 46.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2016,
+        "value": 48.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 52.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 64.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 67.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2016,
+        "value": 42.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 39.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 49.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 51.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2016,
+        "value": 40.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 37.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 47.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 48.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AN": [
+      {
+        "year": 2016,
+        "value": 25.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 30.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2016,
+        "value": 56.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 68.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 70.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2016,
+        "value": 32.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 39.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 41,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2016,
+        "value": 135.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 121.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 144.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 148,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2016,
+        "value": 28.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 34.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 36,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2022,
+        "value": 12.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2016,
+        "value": 8.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2016,
+        "value": 42.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 52.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 54,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "cybercrime": {
+    "IN-AP": [
+      {
+        "year": 2018,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 3.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2018,
+        "value": 0.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2018,
+        "value": 0.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2018,
+        "value": 0.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2018,
+        "value": 0.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2018,
+        "value": 0.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.9,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2018,
+        "value": 1.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2018,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2018,
+        "value": 0.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2018,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 3.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2018,
+        "value": 5.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 10.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 15.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2018,
+        "value": 1.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2018,
+        "value": 1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.9,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2018,
+        "value": 3.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.9,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2018,
+        "value": 0.05,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.3,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2018,
+        "value": 0.08,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.15,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.25,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.4,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2018,
+        "value": 0.03,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.06,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.15,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2018,
+        "value": 0.04,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.08,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.12,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2018,
+        "value": 0.6,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2018,
+        "value": 0.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2018,
+        "value": 1.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.2,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2018,
+        "value": 0.02,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.04,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.07,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.1,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2018,
+        "value": 2.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2018,
+        "value": 2.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13.8,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2018,
+        "value": 0.06,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.12,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.3,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2018,
+        "value": 3.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5.1,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2018,
+        "value": 0.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.7,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2018,
+        "value": 0.8,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 1.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.3,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AN": [
+      {
+        "year": 2020,
+        "value": 0.02,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.04,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.06,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2018,
+        "value": 0.15,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.28,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.45,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.6,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2020,
+        "value": 0.03,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.05,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.08,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2018,
+        "value": 1.2,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 2.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.4,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2018,
+        "value": 0.15,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.3,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.5,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.7,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2022,
+        "value": 0.02,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.04,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2020,
+        "value": 0.01,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.02,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.03,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2018,
+        "value": 0.08,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 0.15,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.25,
+        "source": "NCRB",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.35,
+        "source": "NCRB Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}

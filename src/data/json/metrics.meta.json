@@ -1,0 +1,218 @@
+[
+  {
+    "id": "imr",
+    "label": "Infant Mortality Rate",
+    "sector": "health",
+    "unit": "per 1,000 live births",
+    "description": "Deaths per 1,000 live births before age 1. Sourced from SRS annual bulletins & World Bank indicators.",
+    "sourceReport": "Sample Registration System (SRS) / World Bank Data",
+    "higherIsBetter": false
+  },
+  {
+    "id": "mmr",
+    "label": "Maternal Mortality Ratio",
+    "sector": "health",
+    "unit": "per 100,000 live births",
+    "description": "Maternal deaths per 100,000 live births. Sourced from SRS bulletins and World Bank / WHO health databases.",
+    "sourceReport": "SRS Special Bulletins / WHO / World Bank",
+    "higherIsBetter": false
+  },
+  {
+    "id": "tfr",
+    "label": "Total Fertility Rate",
+    "sector": "health",
+    "unit": "children per woman",
+    "description": "Average number of children born per woman. Sourced from SRS bulletins, NFHS surveys & UN Population Division.",
+    "sourceReport": "SRS / NFHS / UN Population Data",
+    "higherIsBetter": false
+  },
+  {
+    "id": "literacy_rate",
+    "label": "Literacy Rate",
+    "sector": "education",
+    "unit": "%",
+    "description": "Percentage of the population aged 7 years and above who can read and write with understanding.",
+    "sourceReport": "Census of India / NSO Survey / UDISE+",
+    "higherIsBetter": true
+  },
+  {
+    "id": "ger_secondary",
+    "label": "GER (Secondary)",
+    "sector": "education",
+    "unit": "%",
+    "description": "Gross Enrolment Ratio at the secondary level (Classes IX–X). Sourced from UDISE+ / Ministry of Education.",
+    "sourceReport": "UDISE+ / Ministry of Education",
+    "higherIsBetter": true
+  },
+  {
+    "id": "higher_ed_ger",
+    "label": "Higher Education GER",
+    "sector": "education",
+    "unit": "%",
+    "description": "Gross Enrolment Ratio in Higher Education (18–23 age group). Target under NEP 2020: 50% by 2035.",
+    "sourceReport": "All India Survey on Higher Education (AISHE)",
+    "higherIsBetter": true
+  },
+  {
+    "id": "higher_ed_enrolment",
+    "label": "Higher Education Enrolment",
+    "sector": "education",
+    "unit": "students",
+    "description": "Total student enrolment in higher education institutions (universities, colleges, and stand-alone institutes). Sourced from AISHE.",
+    "sourceReport": "AISHE 2021-22 (Ministry of Education)",
+    "higherIsBetter": true
+  },
+  {
+    "id": "pci",
+    "label": "Per Capita Income",
+    "sector": "economy",
+    "unit": "₹",
+    "description": "Net State Domestic Product / Net National Income per capita at current prices in Indian Rupees.",
+    "sourceReport": "MoSPI / RBI Handbook of Statistics",
+    "higherIsBetter": true
+  },
+  {
+    "id": "gdp_growth",
+    "label": "GDP Growth Rate",
+    "sector": "economy",
+    "unit": "%",
+    "description": "Real GDP growth rate year-on-year percentage change. Sourced from MoSPI, RBI & World Bank.",
+    "sourceReport": "MoSPI / RBI / World Bank",
+    "higherIsBetter": true
+  },
+  {
+    "id": "lfpr",
+    "label": "Labour Force Participation Rate",
+    "sector": "labour",
+    "unit": "%",
+    "description": "Percentage of the working-age population (15+) that is either employed or seeking employment (usual status, principal + subsidiary).",
+    "sourceReport": "Periodic Labour Force Survey (PLFS) / CMIE",
+    "higherIsBetter": true
+  },
+  {
+    "id": "unemployment",
+    "label": "Unemployment Rate (Usual Status)",
+    "sector": "labour",
+    "unit": "%",
+    "description": "Percentage of the labour force (15+) that is without work and seeking employment under Usual Status (Principal + Subsidiary Status, PS+SS).",
+    "sourceReport": "Periodic Labour Force Survey (PLFS) / MoSPI",
+    "higherIsBetter": false
+  },
+  {
+    "id": "female_lfpr",
+    "label": "Female LFPR",
+    "sector": "labour",
+    "unit": "%",
+    "description": "Labour Force Participation Rate for women aged 15 and above (usual status).",
+    "sourceReport": "Periodic Labour Force Survey (PLFS)",
+    "higherIsBetter": true
+  },
+  {
+    "id": "youth_unemp",
+    "label": "Youth Unemployment (15-24)",
+    "sector": "labour",
+    "unit": "%",
+    "description": "Unemployment rate among the youth population aged 15-24 years (usual status).",
+    "sourceReport": "Periodic Labour Force Survey (PLFS)",
+    "higherIsBetter": false
+  },
+  {
+    "id": "agri_gdp_growth",
+    "label": "Agricultural GDP Growth",
+    "sector": "agriculture",
+    "unit": "%",
+    "description": "Year-on-year growth rate of Gross Value Added (GVA) from agriculture and allied sectors at constant prices.",
+    "sourceReport": "Directorate of Economics & Statistics / MoSPI",
+    "higherIsBetter": true
+  },
+  {
+    "id": "foodgrain_prod",
+    "label": "Foodgrain Production",
+    "sector": "agriculture",
+    "unit": "million tonnes",
+    "description": "Total production of foodgrains (rice, wheat, coarse cereals, pulses) in million tonnes.",
+    "sourceReport": "Agricultural Statistics at a Glance / Ministry of Agriculture & Farmers Welfare",
+    "higherIsBetter": true
+  },
+  {
+    "id": "total_pop",
+    "label": "Total Population",
+    "sector": "population",
+    "unit": "crore",
+    "description": "Total population in crores. Sourced from Census of India, RGI Population Projections & UN Population Division.",
+    "sourceReport": "Census of India / RGI / UN Data",
+    "higherIsBetter": false
+  },
+  {
+    "id": "sex_ratio",
+    "label": "Sex Ratio",
+    "sector": "population",
+    "unit": "females per 1,000 males",
+    "description": "Number of females per 1,000 males in the total population. Sourced from Census & NFHS.",
+    "sourceReport": "Census of India / NFHS-5 (2019-21)",
+    "higherIsBetter": true
+  },
+  {
+    "id": "poverty_hcr",
+    "label": "Poverty Headcount Ratio",
+    "sector": "social",
+    "unit": "%",
+    "description": "Percentage of the population living below the national poverty line (Tendulkar methodology / NITI Aayog MPI).",
+    "sourceReport": "NITI Aayog MPI / Planning Commission",
+    "higherIsBetter": false
+  },
+  {
+    "id": "hdi",
+    "label": "Human Development Index",
+    "sector": "social",
+    "unit": "",
+    "description": "Composite index measuring average achievement in health, education, and standard of living.",
+    "sourceReport": "UNDP Human Development Report / NITI Aayog / GDL",
+    "higherIsBetter": true
+  },
+  {
+    "id": "total_crime_rate",
+    "label": "IPC Crime Rate",
+    "sector": "safety",
+    "unit": "per lakh population",
+    "description": "Rate of cognizable crimes registered under the Indian Penal Code (IPC) per 1,00,000 population. (Note: Higher registered crime rates reflect higher reporting/registration).",
+    "sourceReport": "NCRB — Crime in India 2022",
+    "higherIsBetter": false
+  },
+  {
+    "id": "total_cognizable_crime_rate",
+    "label": "Total Cognizable Crime Rate (IPC + SLL)",
+    "sector": "safety",
+    "unit": "per lakh population",
+    "description": "Total rate of cognizable crimes registered under both IPC (Indian Penal Code) and SLL (Special & Local Laws) per 1,00,000 population.",
+    "sourceReport": "NCRB — Crime in India Compendium",
+    "higherIsBetter": false
+  },
+  {
+    "id": "murder_rate",
+    "label": "Murder Rate",
+    "sector": "safety",
+    "unit": "per lakh population",
+    "description": "Rate of murders (Section 302 IPC / Section 103 BNS) per 1,00,000 population.",
+    "sourceReport": "NCRB — Crime in India",
+    "higherIsBetter": false
+  },
+  {
+    "id": "crimes_women",
+    "label": "Crimes Against Women",
+    "sector": "safety",
+    "unit": "per lakh women",
+    "description": "Rate of total crimes against women (including assault, sexual harassment, kidnapping, dowry deaths, rape) per 1,00,000 female population.",
+    "sourceReport": "NCRB — Crime in India",
+    "higherIsBetter": false
+  },
+  {
+    "id": "cybercrime",
+    "label": "Cyber Crimes",
+    "sector": "safety",
+    "unit": "cases (thousands)",
+    "description": "Total number of cyber crime cases registered under the IT Act and IPC, in thousands.",
+    "sourceReport": "NCRB — Crime in India",
+    "higherIsBetter": false
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "agri_gdp_growth": [
+    {
+      "year": 2000,
+      "value": 0.2,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2004,
+      "value": 9.3,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2008,
+      "value": 0.1,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2012,
+      "value": 1.5,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 6.3,
+      "source": "MoSPI 2016-17",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 2.4,
+      "source": "MoSPI 2018-19",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 3.3,
+      "source": "MoSPI 2020-21",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 4,
+      "source": "MoSPI 2022-23",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 3.8,
+      "source": "MoSPI / DES Est. 2024-25",
+      "dataType": "estimated"
+    }
+  ],
+  "foodgrain_prod": [
+    {
+      "year": 2000,
+      "value": 196.8,
+      "source": "Agri Stats at a Glance 2000",
+      "dataType": "official"
+    },
+    {
+      "year": 2005,
+      "value": 208.6,
+      "source": "Agri Stats at a Glance 2005",
+      "dataType": "official"
+    },
+    {
+      "year": 2010,
+      "value": 244.5,
+      "source": "Agri Stats at a Glance 2010",
+      "dataType": "official"
+    },
+    {
+      "year": 2015,
+      "value": 251.5,
+      "source": "Agri Stats at a Glance 2015",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 285,
+      "source": "Agri Stats at a Glance 2018-19",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 310.7,
+      "source": "MoAFW Final Estimate 2020-21 (Crop Year)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 315.6,
+      "source": "MoAFW Final Estimate 2021-22 (Crop Year)",
+      "dataType": "official"
+    },
+    {
+      "year": 2023,
+      "value": 329.7,
+      "source": "MoAFW Final Estimate 2022-23 (Crop Year)",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 332.3,
+      "source": "MoAFW Final Estimate 2023-24 (Crop Year)",
+      "dataType": "official"
+    }
+  ]
+}

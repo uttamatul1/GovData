@@ -1,0 +1,162 @@
+{
+  "pci": [
+    {
+      "year": 2000,
+      "value": 18667,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2002,
+      "value": 20658,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2004,
+      "value": 24143,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2006,
+      "value": 31206,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2008,
+      "value": 40775,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2010,
+      "value": 54683,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2012,
+      "value": 71593,
+      "source": "MoSPI / RBI",
+      "dataType": "official"
+    },
+    {
+      "year": 2014,
+      "value": 86647,
+      "source": "MoSPI 2014-15",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 104659,
+      "source": "MoSPI 2016-17",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 126521,
+      "source": "MoSPI 2018-19",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 126855,
+      "source": "MoSPI 2020-21 (NNI)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 172276,
+      "source": "MoSPI 2022-23 (NNI)",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 188892,
+      "source": "MoSPI FRE 2023-24 (Per-Capita NNI)",
+      "dataType": "official"
+    }
+  ],
+  "gdp_growth": [
+    {
+      "year": 2000,
+      "value": 3.8,
+      "source": "World Bank / MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2002,
+      "value": 3.8,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2004,
+      "value": 7.9,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2006,
+      "value": 9.3,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2008,
+      "value": 3.1,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2010,
+      "value": 8.5,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2012,
+      "value": 5.5,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2014,
+      "value": 7.4,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 8.3,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 6.5,
+      "source": "MoSPI",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": -5.8,
+      "source": "MoSPI (FY 2020-21 COVID Contraction)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 7.2,
+      "source": "MoSPI FY 2022-23 (Real GDP)",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 8.2,
+      "source": "MoSPI FY 2023-24 (Real GDP Growth)",
+      "dataType": "official"
+    }
+  ]
+}

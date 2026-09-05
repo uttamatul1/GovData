@@ -1,0 +1,180 @@
+{
+  "total_crime_rate": [
+    {
+      "year": 2014,
+      "value": 233.8,
+      "source": "NCRB 2014",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 233.6,
+      "source": "NCRB 2016",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 238.9,
+      "source": "NCRB 2018",
+      "dataType": "official"
+    },
+    {
+      "year": 2019,
+      "value": 246.3,
+      "source": "NCRB 2019",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 222.6,
+      "source": "NCRB 2020 (IPC Rate)",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 268,
+      "source": "NCRB 2021 (IPC Crime Rate)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 258.1,
+      "source": "NCRB 2022 (IPC Crime Rate)",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 255,
+      "source": "NCRB Linear Trend Projection",
+      "dataType": "projected"
+    }
+  ],
+  "total_cognizable_crime_rate": [
+    {
+      "year": 2020,
+      "value": 487.8,
+      "source": "NCRB 2020 (IPC 42.54L + SLL 23.46L)",
+      "dataType": "official"
+    },
+    {
+      "year": 2021,
+      "value": 445.9,
+      "source": "NCRB 2021 (IPC 36.63L + SLL 24.32L)",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 422.2,
+      "source": "NCRB 2022 (IPC 35.61L + SLL 22.63L)",
+      "dataType": "official"
+    }
+  ],
+  "murder_rate": [
+    {
+      "year": 2014,
+      "value": 2.6,
+      "source": "NCRB 2014",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 2.5,
+      "source": "NCRB 2016",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 2.4,
+      "source": "NCRB 2018",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 2.2,
+      "source": "NCRB 2020",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 2.1,
+      "source": "NCRB 2022",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 2,
+      "source": "NCRB Est.",
+      "dataType": "estimated"
+    }
+  ],
+  "crimes_women": [
+    {
+      "year": 2014,
+      "value": 56.3,
+      "source": "NCRB 2014",
+      "dataType": "official"
+    },
+    {
+      "year": 2016,
+      "value": 55.2,
+      "source": "NCRB 2016",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 58.8,
+      "source": "NCRB 2018",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 56.5,
+      "source": "NCRB 2020",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 66.4,
+      "source": "NCRB 2022",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 68,
+      "source": "NCRB Est.",
+      "dataType": "estimated"
+    }
+  ],
+  "cybercrime": [
+    {
+      "year": 2016,
+      "value": 12.3,
+      "source": "NCRB 2016",
+      "dataType": "official"
+    },
+    {
+      "year": 2018,
+      "value": 28.2,
+      "source": "NCRB 2018",
+      "dataType": "official"
+    },
+    {
+      "year": 2020,
+      "value": 50,
+      "source": "NCRB 2020",
+      "dataType": "official"
+    },
+    {
+      "year": 2022,
+      "value": 65.9,
+      "source": "NCRB 2022",
+      "dataType": "official"
+    },
+    {
+      "year": 2024,
+      "value": 84.5,
+      "source": "NCRB Est.",
+      "dataType": "estimated"
+    }
+  ]
+}

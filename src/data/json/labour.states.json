@@ -1,0 +1,3576 @@
+{
+  "lfpr": {
+    "IN-AR": [
+      {
+        "year": 2024,
+        "value": 74.7,
+        "source": "PLFS 2023-24 Table 30",
+        "dataType": "official"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2011,
+        "value": 35.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 36.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 38.9,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 43.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 44.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2011,
+        "value": 42.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 44,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 45.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 47.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 49.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2011,
+        "value": 41.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 42.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 44.3,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 46.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 47.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2011,
+        "value": 24.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 26,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 28.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 30.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 31.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2011,
+        "value": 30.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 32.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 34.6,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 37.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 39.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2011,
+        "value": 42,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 43.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 45,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 48.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 49.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2011,
+        "value": 37.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 39.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 41.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 44.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 46.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2011,
+        "value": 39.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 41,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 43.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 46,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 47.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2011,
+        "value": 38.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 40.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 42.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 45.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 46.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2011,
+        "value": 33.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 35.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 37.9,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 40.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 42,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2011,
+        "value": 32.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 34.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 36.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 38.9,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 40.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2011,
+        "value": 35.4,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 37.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 39,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 41.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 42.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2011,
+        "value": 45.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 46.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 48.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 50.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 51.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2017,
+        "value": 43.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 45.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 47.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 49.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2011,
+        "value": 42.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 44.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 45.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 48.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 49.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2011,
+        "value": 44.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 46.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 48,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 50.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 51.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2011,
+        "value": 36.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 38.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 40.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 42.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 44.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2011,
+        "value": 40.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 41.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 43.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 46.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 47.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2011,
+        "value": 35.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 36.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 38.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 41.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 42.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2018,
+        "value": 42.3,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 46.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 51.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 53,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2018,
+        "value": 55.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 57.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 62.3,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 63.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2018,
+        "value": 44.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 47.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 50.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 52,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2018,
+        "value": 39.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 42.1,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 47.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 48.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2018,
+        "value": 51.6,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 53.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 56.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 58,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2018,
+        "value": 42.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 45.3,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 49.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 51,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2018,
+        "value": 57.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 60.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 63.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 64.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2018,
+        "value": 43.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 46.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 50.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 52,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2018,
+        "value": 47.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 50.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 55.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 56.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2018,
+        "value": 40.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 43.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 48.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 50,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 52.3,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 56,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 57.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "unemployment": {
+    "IN-KL": [
+      {
+        "year": 2011,
+        "value": 10.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 11.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 10,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2011,
+        "value": 7.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 8.6,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2011,
+        "value": 7.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 7.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.9,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2011,
+        "value": 7.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 6.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.4,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2011,
+        "value": 4.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.9,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2011,
+        "value": 6.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 7.3,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5.3,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.4,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2011,
+        "value": 4.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.3,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2011,
+        "value": 5.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.3,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2011,
+        "value": 4.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.6,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2011,
+        "value": 5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.7,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.7,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2011,
+        "value": 5.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 6.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2011,
+        "value": 5.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 7.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.6,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2011,
+        "value": 3.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2017,
+        "value": 4.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2011,
+        "value": 4.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 5.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2011,
+        "value": 4.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 5.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.9,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2011,
+        "value": 5.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 7.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 6.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2011,
+        "value": 4.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 5.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2011,
+        "value": 3.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.4,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2018,
+        "value": 5.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2018,
+        "value": 8.7,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 7.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2018,
+        "value": 4.6,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 4.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 3.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2018,
+        "value": 6.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2018,
+        "value": 3.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 3.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 3,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2018,
+        "value": 4.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 4,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 3.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2018,
+        "value": 7.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 6.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2018,
+        "value": 3.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 3,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 2.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.3,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2018,
+        "value": 8.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 7.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2018,
+        "value": 5.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2018,
+        "value": 6.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 6.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 5.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "female_lfpr": {
+    "IN-AR": [
+      {
+        "year": 2024,
+        "value": 65.4,
+        "source": "PLFS 2023-24 Table 30",
+        "dataType": "official"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2011,
+        "value": 25.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 27.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 32.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 38.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 41.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2011,
+        "value": 14.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 19.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 28.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 35.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 38.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2011,
+        "value": 9.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 11.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 16.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 22.3,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 25.6,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2011,
+        "value": 3.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 4.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 7.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 14.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2011,
+        "value": 14.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 16.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 21.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 26.4,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 29.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2011,
+        "value": 20.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 22.4,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 28.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 34.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 37,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2011,
+        "value": 18.4,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 20.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 25.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 31.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 34.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2011,
+        "value": 19.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 21.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 30.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 37.6,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 40.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2011,
+        "value": 18.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 20.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 26.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 32.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 35.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2011,
+        "value": 12.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 14.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 20.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 27.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 30.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2011,
+        "value": 12.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 14.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 18.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 23.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 26.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2011,
+        "value": 15.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 18.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 22.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 28.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 31.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2011,
+        "value": 38.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 41.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 44.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 47.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 49.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2017,
+        "value": 36.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 40.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 44.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 46.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2011,
+        "value": 28.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 32.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 36.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 41.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 43.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2011,
+        "value": 32.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 36.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 40.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 44.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 47.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2011,
+        "value": 16.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 19.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 24.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 30.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2011,
+        "value": 25.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 28.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 32.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 37.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 40.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2018,
+        "value": 22.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 26.4,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 32.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 34,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2018,
+        "value": 42.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 45.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 50.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 51.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2018,
+        "value": 28.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 30.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 34.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 36,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2018,
+        "value": 28.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 30.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 35.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 37,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2018,
+        "value": 38.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 40.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 44.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 46,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2018,
+        "value": 30.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 33.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 38.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 40,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2018,
+        "value": 40.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 43.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 48.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 50,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2018,
+        "value": 22.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 25.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 30.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2018,
+        "value": 25.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 28.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 33.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 35,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2018,
+        "value": 22.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 25.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 30.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2018,
+        "value": 12.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 17.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 19,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 35.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 40.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 42,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "youth_unemp": {
+    "IN-KL": [
+      {
+        "year": 2011,
+        "value": 28.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 32.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 26.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 19.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 17.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2011,
+        "value": 24.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 22.1,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 20.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 18.6,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2011,
+        "value": 16.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 14.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 12.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2011,
+        "value": 15.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 13.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 11.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.2,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2011,
+        "value": 22.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 25.3,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 20.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 15.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2011,
+        "value": 16.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 15.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 13.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 11.4,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2011,
+        "value": 20.2,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 18.7,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 16.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 14.1,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 12.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2011,
+        "value": 14.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 12.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 10.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2011,
+        "value": 18.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 16.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 13.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 11.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2011,
+        "value": 16.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 15.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 12.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2011,
+        "value": 18.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 20.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 18.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 15.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2011,
+        "value": 20.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 22.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 19.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 16.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 14.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2011,
+        "value": 12.5,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 11.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 9.5,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2011,
+        "value": 15.8,
+        "source": "NSS 68th Round",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 17.2,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 14.8,
+        "source": "PLFS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2018,
+        "value": 18.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 16.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 13.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 12.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2018,
+        "value": 15.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 12,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 11,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2018,
+        "value": 10.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 9.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2018,
+        "value": 22.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 20.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 18,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2018,
+        "value": 12.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 11.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 9.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2018,
+        "value": 13.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 12.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 10.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2018,
+        "value": 16.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 12.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 11.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2018,
+        "value": 10.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 9.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 8.2,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2018,
+        "value": 14.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 13.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 11,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2018,
+        "value": 21.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 16,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 14.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2018,
+        "value": 8.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 7.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 6.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2018,
+        "value": 15.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 11.8,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2018,
+        "value": 20.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 18.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 16,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 14.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2018,
+        "value": 14.2,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 12.8,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 10.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.5,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2018,
+        "value": 18.8,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 16.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 14,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 12.8,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2018,
+        "value": 16.5,
+        "source": "PLFS 2017-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 15.2,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 12.5,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 11,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 14.5,
+        "source": "PLFS 2019-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 12,
+        "source": "PLFS 2022-23",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 11,
+        "source": "PLFS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}

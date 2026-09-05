@@ -1,0 +1,172 @@
+﻿
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  DATA AUDIT REPORT
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+
+Total Issues: 63
+  ≡ƒö┤ ERRORS:   0
+  ≡ƒƒí WARNINGS: 46
+  ≡ƒö╡ INFO:     17
+
+
+ΓöÇΓöÇ ≡ƒƒí WARNINGS (46) ΓöÇΓöÇ
+
+  ≡ƒƒí [tfr] Total Fertility Rate [Kerala]
+     Value 1.8 repeated 3 times ΓÇö may indicate copy-paste error
+  ≡ƒƒí [tfr] Total Fertility Rate [Tamil Nadu]
+     Value 1.8 repeated 3 times ΓÇö may indicate copy-paste error
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Andaman and Nicobar]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Andhra Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Arunachal Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Assam]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Bihar]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Chandigarh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Chhattisgarh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Delhi]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Goa]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Gujarat]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Haryana]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Himachal Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Jammu and Kashmir]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Jharkhand]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Karnataka]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Kerala]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Ladakh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Lakshadweep]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Madhya Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Maharashtra]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Manipur]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Meghalaya]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Mizoram]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Nagaland]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Odisha]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Puducherry]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Punjab]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Rajasthan]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Sikkim]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Tamil Nadu]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Telangana]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Dadra and Nagar Haveli and Daman and Diu]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Tripura]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Uttar Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [Uttarakhand]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [higher_ed_enrolment] Higher Education Enrolment [West Bengal]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [lfpr] Labour Force Participation Rate [Arunachal Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [female_lfpr] Female LFPR [Arunachal Pradesh]
+     Only 1 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [agri_gdp_growth] Agricultural GDP Growth [Chhattisgarh]
+     Value 4.2 repeated 3 times ΓÇö may indicate copy-paste error
+  ≡ƒƒí [poverty_hcr] Poverty Headcount Ratio [Ladakh]
+     Only 2 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [hdi] Human Development Index [Ladakh]
+     Only 2 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [murder_rate] Murder Rate [Ladakh]
+     Only 2 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [crimes_women] Crimes Against Women [Ladakh]
+     Only 2 data points ΓÇö may be insufficient for trend analysis
+  ≡ƒƒí [cybercrime] Cyber Crimes [Ladakh]
+     Only 2 data points ΓÇö may be insufficient for trend analysis
+
+ΓöÇΓöÇ ≡ƒö╡ INFOS (17) ΓöÇΓöÇ
+
+  ≡ƒö╡ [imr] Infant Mortality Rate
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [mmr] Maternal Mortality Ratio
+     Missing 13 major state(s): Arunachal Pradesh, Chhattisgarh, Goa, Himachal Pradesh, Jharkhand, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Telangana, Tripura, Uttarakhand
+  ≡ƒö╡ [tfr] Total Fertility Rate
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [literacy_rate] Literacy Rate
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [ger_secondary] GER (Secondary)
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [higher_ed_ger] Higher Education GER
+     Missing 11 major state(s): Arunachal Pradesh, Chhattisgarh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [pci] Per Capita Income
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [gdp_growth] GDP Growth Rate
+     Missing 14 major state(s): Arunachal Pradesh, Assam, Chhattisgarh, Goa, Himachal Pradesh, Jharkhand, Kerala, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [lfpr] Labour Force Participation Rate
+     Missing 9 major state(s): Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [unemployment] Unemployment Rate (Usual Status)
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [female_lfpr] Female LFPR
+     Missing 9 major state(s): Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [youth_unemp] Youth Unemployment (15-24)
+     Missing 14 major state(s): Arunachal Pradesh, Assam, Chhattisgarh, Goa, Himachal Pradesh, Jharkhand, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Telangana, Tripura, Uttarakhand
+  ≡ƒö╡ [agri_gdp_growth] Agricultural GDP Growth
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [foodgrain_prod] Foodgrain Production
+     Missing 12 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Kerala, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tamil Nadu, Tripura, Uttarakhand
+  ≡ƒö╡ [total_pop] Total Population
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [sex_ratio] Sex Ratio
+     Missing 10 major state(s): Arunachal Pradesh, Goa, Himachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura, Uttarakhand
+  ≡ƒö╡ [total_cognizable_crime_rate] Total Cognizable Crime Rate (IPC + SLL)
+     Missing 28 major state(s): Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal
+
+
+ΓöÇΓöÇ COVERAGE MATRIX ΓöÇΓöÇ
+
+Metric ID                Label                              States  Missing
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+imr                      Infant Mortality Rate              19      10 missing
+mmr                      Maternal Mortality Ratio           15      13 missing
+tfr                      Total Fertility Rate               18      10 missing
+literacy_rate            Literacy Rate                      19      10 missing
+ger_secondary            GER (Secondary)                    19      10 missing
+higher_ed_ger            Higher Education GER               18      11 missing
+higher_ed_enrolment      Higher Education Enrolment         36      Γ£à
+pci                      Per Capita Income                  19      10 missing
+gdp_growth               GDP Growth Rate                    14      14 missing
+lfpr                     Labour Force Participation Rate    20      9 missing
+unemployment             Unemployment Rate (Usual Status)   19      10 missing
+female_lfpr              Female LFPR                        19      9 missing
+youth_unemp              Youth Unemployment (15-24)         14      14 missing
+agri_gdp_growth          Agricultural GDP Growth            18      10 missing
+foodgrain_prod           Foodgrain Production               16      12 missing
+total_pop                Total Population                   19      10 missing
+sex_ratio                Sex Ratio                          19      10 missing
+poverty_hcr              Poverty Headcount Ratio            36      Γ£à
+hdi                      Human Development Index            36      Γ£à
+total_crime_rate         IPC Crime Rate                     36      Γ£à
+total_cognizable_crime_rateTotal Cognizable Crime Rate (IPC   0       28 missing
+murder_rate              Murder Rate                        36      Γ£à
+crimes_women             Crimes Against Women               36      Γ£à
+cybercrime               Cyber Crimes                       36      Γ£à

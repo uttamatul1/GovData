@@ -1,0 +1,2354 @@
+{
+  "agri_gdp_growth": {
+    "IN-PB": [
+      {
+        "year": 2000,
+        "value": 1.5,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.2,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.9,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2000,
+        "value": 2.8,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.5,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 4.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.6,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2000,
+        "value": 3.2,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 5.8,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 9.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 12.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": -2.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.8,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2000,
+        "value": 4.2,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 6.5,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 5.4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 3.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 1.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.1,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2000,
+        "value": 3.5,
+        "source": "DES Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 5.8,
+        "source": "DES Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 12.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": -4.5,
+        "source": "MoSPI (drought)",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": -0.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.6,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2000,
+        "value": 5.2,
+        "source": "DES AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 7.5,
+        "source": "DES AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 6.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 6.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2000,
+        "value": 3.5,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 4.2,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 2.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2000,
+        "value": 2.5,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.8,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3.1,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.9,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2000,
+        "value": 3.8,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 8.5,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 10.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 7.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 6.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2000,
+        "value": 3.2,
+        "source": "DES Tamil Nadu",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 5.5,
+        "source": "DES Tamil Nadu",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": -8.2,
+        "source": "MoSPI (drought)",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2000,
+        "value": 2.8,
+        "source": "DES Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 5.2,
+        "source": "DES Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": -5.2,
+        "source": "MoSPI (drought)",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.8,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2000,
+        "value": 4.8,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 5.5,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2000,
+        "value": 3.5,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 4.8,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 5.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2000,
+        "value": 4.2,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 5.5,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 5.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2000,
+        "value": 2.5,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.8,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.8,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2000,
+        "value": 2.8,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.5,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 3.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 3.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2015,
+        "value": 12.5,
+        "source": "DES Telangana",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 14.2,
+        "source": "DES Telangana",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 8.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.8,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2000,
+        "value": 1.5,
+        "source": "DES Kerala",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.2,
+        "source": "DES Kerala",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": -3.5,
+        "source": "MoSPI (flood year)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2016,
+        "value": 3.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.2,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2016,
+        "value": 2.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": -1.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2016,
+        "value": 4.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2016,
+        "value": 2.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2016,
+        "value": 3.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2016,
+        "value": 4.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.8,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2016,
+        "value": 3,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.8,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2016,
+        "value": 5.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2016,
+        "value": 4,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5.2,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2016,
+        "value": 3.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 4,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.2,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2016,
+        "value": 2.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 3,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 4,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.5,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2016,
+        "value": 1.2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.5,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.8,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 1.8,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2021,
+        "value": 2,
+        "source": "DES",
+        "dataType": "official"
+      },
+      {
+        "year": 2023,
+        "value": 3.5,
+        "source": "MoSPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "foodgrain_prod": {
+    "IN-UP": [
+      {
+        "year": 2000,
+        "value": 42.1,
+        "source": "Agri Stats UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 44.8,
+        "source": "Agri Stats UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 47.2,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 50.5,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 54.2,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 56.1,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 58.2,
+        "source": "DES UP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 59.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2000,
+        "value": 14.2,
+        "source": "Agri Stats MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 16.8,
+        "source": "Agri Stats MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 21.5,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 28.2,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 32.4,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 34.8,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 37.2,
+        "source": "DES MP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 38.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2000,
+        "value": 25.3,
+        "source": "Agri Stats Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 26.8,
+        "source": "Agri Stats Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 27.8,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 29.2,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 30.5,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 31.2,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 32.1,
+        "source": "DES Punjab",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2000,
+        "value": 11.2,
+        "source": "Agri Stats Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 12.5,
+        "source": "Agri Stats Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 13.8,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 15.2,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 16.5,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 17.2,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17.8,
+        "source": "DES Haryana",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2000,
+        "value": 10.8,
+        "source": "Agri Stats Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 13.5,
+        "source": "Agri Stats Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 18.4,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 16.5,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 21.2,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 22.5,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 24.2,
+        "source": "DES Rajasthan",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 24.8,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2000,
+        "value": 14.8,
+        "source": "Agri Stats West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 15.5,
+        "source": "Agri Stats West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 16.2,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 17.8,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 18.5,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19.4,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 20.2,
+        "source": "DES West Bengal",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 20.8,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2000,
+        "value": 12.5,
+        "source": "Agri Stats Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 13.8,
+        "source": "Agri Stats Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 15.2,
+        "source": "DES Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 10.2,
+        "source": "DES Maharashtra (drought)",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 14.5,
+        "source": "DES Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 16.2,
+        "source": "DES Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17.5,
+        "source": "DES Maharashtra",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2000,
+        "value": 15.2,
+        "source": "Agri Stats AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 16.8,
+        "source": "Agri Stats AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 18.5,
+        "source": "DES AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 12.5,
+        "source": "DES AP (post bifurcation)",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 13.8,
+        "source": "DES AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 15.2,
+        "source": "DES AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 16.5,
+        "source": "DES AP",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 17.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2015,
+        "value": 5.8,
+        "source": "DES Telangana",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 8.2,
+        "source": "DES Telangana",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 9.5,
+        "source": "DES Telangana",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.8,
+        "source": "DES Telangana",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 11.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2000,
+        "value": 8.5,
+        "source": "Agri Stats Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 9.2,
+        "source": "Agri Stats Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 10.5,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 11.8,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 12.5,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 13.2,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 14.5,
+        "source": "DES Odisha",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 15.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2000,
+        "value": 8.2,
+        "source": "Agri Stats Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 9.5,
+        "source": "Agri Stats Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 10.8,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 12.5,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 13.8,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14.8,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 15.5,
+        "source": "DES Bihar",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2000,
+        "value": 11.2,
+        "source": "Agri Stats Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 12.5,
+        "source": "Agri Stats Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 13.8,
+        "source": "DES Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 8.5,
+        "source": "DES Karnataka (drought)",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 12.2,
+        "source": "DES Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 13.5,
+        "source": "DES Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 14.8,
+        "source": "DES Karnataka",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 15.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2000,
+        "value": 5.2,
+        "source": "Agri Stats Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 6.8,
+        "source": "Agri Stats Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.5,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 9.2,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 10.5,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 11.2,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12.5,
+        "source": "DES Gujarat",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13.2,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2000,
+        "value": 6.8,
+        "source": "Agri Stats Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 7.5,
+        "source": "Agri Stats Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 8.2,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 9.5,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 10.2,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 11.5,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12.2,
+        "source": "DES Chhattisgarh",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2000,
+        "value": 4.5,
+        "source": "Agri Stats Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 4.8,
+        "source": "Agri Stats Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 5.2,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 5.8,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 6.2,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 6.8,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.2,
+        "source": "DES Assam",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 7.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2000,
+        "value": 3.8,
+        "source": "Agri Stats Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 4.2,
+        "source": "Agri Stats Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 4.5,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 4.8,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 5.2,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5.8,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.2,
+        "source": "DES Jharkhand",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.5,
+        "source": "DES Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2015,
+        "value": 0.28,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.32,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.35,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.38,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2015,
+        "value": 0.15,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.13,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.12,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.11,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2010,
+        "value": 1.52,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.58,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.62,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.65,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.68,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2010,
+        "value": 0.68,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 0.62,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.58,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.55,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.52,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2015,
+        "value": 0.52,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.55,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.58,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.6,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2015,
+        "value": 0.3,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.32,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.34,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.36,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2015,
+        "value": 0.12,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.14,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.15,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.16,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2015,
+        "value": 0.48,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.5,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.52,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.54,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2015,
+        "value": 0.1,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.11,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.11,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.12,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2010,
+        "value": 8.52,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 9.1,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 9.8,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.2,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.6,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2015,
+        "value": 0.72,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.78,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.82,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.85,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2010,
+        "value": 1.82,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.9,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.95,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.05,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2010,
+        "value": 1.72,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.85,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.9,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.95,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2019,
+        "value": 0.04,
+        "source": "MoA&FW",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.05,
+        "source": "MoA&FW 2021-22",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.05,
+        "source": "MoA&FW Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}

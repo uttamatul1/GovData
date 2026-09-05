@@ -22,6 +22,16 @@ export const allMetrics: Metric[] = [
   ...crimeMetrics,
 ];
 
+// ── DEV-only data validation ────────────────────────────────────────────────
+// Prints warnings to the browser console in development mode.
+// Zero runtime cost in production builds (tree-shaken by Vite).
+// Guarded with optional chaining for non-Vite environments (e.g. tsx CLI).
+if (import.meta.env?.DEV) {
+  import('../utils/validateData').then(({ validateInDev }) => {
+    validateInDev(allMetrics);
+  });
+}
+
 /** Returns the first metric ID for a given sector, useful for auto-selection */
 export function getDefaultMetricId(sector: Sector): string {
   const m = allMetrics.find((metric) => metric.sector === sector);

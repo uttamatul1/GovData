@@ -1,0 +1,1588 @@
+{
+  "total_pop": {
+    "IN-UP": [
+      {
+        "year": 2001,
+        "value": 16.62,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 19.98,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 23.15,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 24.1,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2001,
+        "value": 9.69,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 11.24,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 12.47,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 12.8,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2001,
+        "value": 8.3,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 10.41,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 12.44,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 13.05,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2001,
+        "value": 8.02,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 9.13,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 9.96,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 10.15,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2001,
+        "value": 6.03,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 7.26,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 8.5,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 8.85,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2001,
+        "value": 6.24,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 7.21,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 7.64,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 7.72,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2001,
+        "value": 5.65,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 6.85,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 7.95,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 8.3,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2001,
+        "value": 5.29,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 6.11,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 6.68,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 6.85,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2001,
+        "value": 5.07,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 6.04,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 6.98,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 7.25,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2001,
+        "value": 4.52,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 4.96,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 5.27,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 5.35,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2001,
+        "value": 3.68,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 4.19,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 4.54,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 4.65,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2001,
+        "value": 3.18,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 3.34,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.55,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 3.58,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2001,
+        "value": 2.11,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 2.54,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.91,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 3.02,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2001,
+        "value": 2.44,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 2.77,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.09,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 3.18,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2001,
+        "value": 2.69,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 3.3,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.84,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 4.02,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2001,
+        "value": 2.08,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 2.56,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.99,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 3.15,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2001,
+        "value": 2.67,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 3.12,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.56,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 3.71,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2011,
+        "value": 3.5,
+        "source": "Census 2011 (erstwhile AP)",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 3.87,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 3.96,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2001,
+        "value": 1.38,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 1.68,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.05,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 2.21,
+        "source": "UN/RGI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2001,
+        "value": 0.11,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.14,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.16,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.17,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2001,
+        "value": 0.13,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.15,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.16,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.16,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2001,
+        "value": 0.61,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.69,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.74,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.76,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2001,
+        "value": 0.24,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.29,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.33,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.34,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2001,
+        "value": 0.23,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.3,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.35,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.37,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2001,
+        "value": 0.09,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.11,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.12,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.13,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2001,
+        "value": 0.2,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.2,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.22,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.23,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2001,
+        "value": 0.05,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.06,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.07,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.07,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2001,
+        "value": 0.32,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.37,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.41,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.42,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2001,
+        "value": 0.85,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 1.01,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1.14,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 1.18,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2001,
+        "value": 1.01,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 1.25,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1.4,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 1.45,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2011,
+        "value": 0.03,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 0.03,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      },
+      {
+        "year": 2024,
+        "value": 0.03,
+        "source": "RGI Projection",
+        "dataType": "projected"
+      }
+    ]
+  },
+  "sex_ratio": {
+    "IN-KL": [
+      {
+        "year": 2001,
+        "value": 1058,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 1084,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1047,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1121,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2001,
+        "value": 987,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 996,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1035,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1088,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2001,
+        "value": 922,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 929,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 970,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 966,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2001,
+        "value": 861,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 879,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 879,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 926,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2001,
+        "value": 898,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 912,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1010,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1017,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2001,
+        "value": 919,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 918,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1090,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1090,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2001,
+        "value": 922,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 928,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1005,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1009,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2001,
+        "value": 921,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 919,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 972,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 986,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2001,
+        "value": 920,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 931,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 952,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 970,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2001,
+        "value": 964,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 973,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1021,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1023,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2001,
+        "value": 934,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 950,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1014,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1034,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2001,
+        "value": 972,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 979,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1012,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1015,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2001,
+        "value": 978,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 993,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1039,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1042,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2011,
+        "value": 988,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 1026,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1032,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2001,
+        "value": 935,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 958,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 963,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1012,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2001,
+        "value": 941,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 948,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 958,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 956,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2001,
+        "value": 990,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 991,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 976,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 982,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2001,
+        "value": 874,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 895,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 928,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 938,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2001,
+        "value": 821,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 868,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2016,
+        "value": 896,
+        "source": "NFHS-4",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 930,
+        "source": "NFHS-5",
+        "dataType": "official"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2001,
+        "value": 901,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 938,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 964,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 970,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2001,
+        "value": 960,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 973,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1005,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1010,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2001,
+        "value": 970,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 972,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1005,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1010,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2001,
+        "value": 978,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 985,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1035,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1040,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2001,
+        "value": 975,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 989,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1040,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1045,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2001,
+        "value": 938,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 976,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1014,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1020,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2001,
+        "value": 909,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 931,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 965,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 972,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2001,
+        "value": 875,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 890,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 942,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 950,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2001,
+        "value": 950,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 960,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1001,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1008,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2001,
+        "value": 964,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 963,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 994,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1000,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2001,
+        "value": 900,
+        "source": "Census 2001",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 889,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 957,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 965,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2011,
+        "value": 690,
+        "source": "Census 2011",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 750,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}

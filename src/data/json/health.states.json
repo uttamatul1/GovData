@@ -1,0 +1,3654 @@
+{
+  "imr": {
+    "IN-KL": [
+      {
+        "year": 2000,
+        "value": 14,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 14,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 13,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 12,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 7,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2000,
+        "value": 48,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 36,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 28,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 21,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 18,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 16,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 15,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 14,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2000,
+        "value": 83,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 73,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 61,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 46,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 43,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 38,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 38,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 34,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2000,
+        "value": 87,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 76,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 62,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 50,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 48,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 43,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 41,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 39,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2000,
+        "value": 51,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 37,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 24,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 19,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 15,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 13,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 11,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2000,
+        "value": 62,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 54,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 44,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 34,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 30,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 27,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 25,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 23,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2000,
+        "value": 62,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 61,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 48,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 42,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 32,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 27,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 26,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 25,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2000,
+        "value": 79,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 68,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 55,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 41,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 37,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 32,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 30,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 29,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2000,
+        "value": 57,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 50,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 38,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 28,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 22,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 18,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 17,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2000,
+        "value": 51,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 38,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 32,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 26,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 22,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2000,
+        "value": 67,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 60,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 48,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 38,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 33,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 30,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 28,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 26,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2000,
+        "value": 52,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 45,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 36,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 26,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 22,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 15,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2000,
+        "value": 96,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 75,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 57,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 44,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 40,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 36,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 34,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2000,
+        "value": 70,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 65,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 54,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 44,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 29,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 25,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 25,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 24,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2000,
+        "value": 65,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 56,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 46,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 35,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 28,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 25,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 24,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 23,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2015,
+        "value": 36,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 30,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 26,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 24,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 22,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2000,
+        "value": 75,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 69,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 57,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 44,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 43,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 41,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 39,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 37,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2000,
+        "value": 74,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 67,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 57,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 47,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 40,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 36,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 35,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2000,
+        "value": 41,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 35,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 28,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 20,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 16,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 13,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 12,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2005,
+        "value": 61,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 32,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 28,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 21,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 18,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 16,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 14,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2000,
+        "value": 36,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 15,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 11,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 9,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2000,
+        "value": 60,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 49,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 40,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 28,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 22,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 15,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2005,
+        "value": 37,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 16,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 11,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 10,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2005,
+        "value": 53,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 52,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 39,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 33,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 30,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 28,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 26,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2005,
+        "value": 34,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 37,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 27,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 17,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 14,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 13,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 12,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2005,
+        "value": 38,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 24,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 12,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 7,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2005,
+        "value": 32,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 26,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 18,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 13,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 11,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 9,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2005,
+        "value": 41,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 29,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 20,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 19,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 16,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 14,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2005,
+        "value": 48,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 38,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 34,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 30,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 25,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 23,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 21,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2005,
+        "value": 51,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 43,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 32,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2018,
+        "value": 24,
+        "source": "SRS 2018",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 22,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 20,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2015,
+        "value": 25,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 20,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 18,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "mmr": {
+    "IN-KL": [
+      {
+        "year": 2000,
+        "value": 110,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 81,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 66,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 43,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 19,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 19,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2000,
+        "value": 149,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 104,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 87,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 46,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 38,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 36,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 33,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2000,
+        "value": 145,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 97,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 79,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 60,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 58,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 52,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 48,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2000,
+        "value": 517,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 359,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 292,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 197,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 167,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 151,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 140,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2000,
+        "value": 445,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 318,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 255,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 164,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 141,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 123,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 110,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2000,
+        "value": 371,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 261,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 219,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 165,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 150,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 130,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 118,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2000,
+        "value": 498,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 335,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 230,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 173,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 163,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 152,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 140,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2000,
+        "value": 230,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 160,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 122,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 91,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 57,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 53,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 48,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2000,
+        "value": 195,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 178,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 144,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 108,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 69,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 63,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 57,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2000,
+        "value": 424,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 303,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 235,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 150,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 119,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 103,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 92,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2000,
+        "value": 401,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 341,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 300,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 229,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 195,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 167,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 150,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2000,
+        "value": 266,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 182,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 117,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 98,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 96,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 75,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 65,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2000,
+        "value": 162,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 153,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 146,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 101,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 110,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 96,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 88,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2000,
+        "value": 178,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 162,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 155,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 122,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 105,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 88,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 78,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2000,
+        "value": 154,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2007,
+        "value": 134,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 110,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 74,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 45,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 40,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 35,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2007,
+        "value": 148,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 112,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 93,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 80,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 68,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2007,
+        "value": 301,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 230,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 159,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 137,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 120,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2007,
+        "value": 112,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 89,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 63,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 42,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 35,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2007,
+        "value": 180,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 141,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 87,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 72,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 60,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2007,
+        "value": 312,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 208,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 165,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 125,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 105,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2011,
+        "value": 128,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 95,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 78,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 65,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2011,
+        "value": 246,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 197,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 165,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 140,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2011,
+        "value": 75,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 52,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 38,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 30,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2011,
+        "value": 92,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 68,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 55,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 45,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2011,
+        "value": 78,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 52,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 40,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 32,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2017,
+        "value": 76,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 56,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 43,
+        "source": "SRS 2019-21",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 38,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2011,
+        "value": 168,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 115,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 89,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 72,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2007,
+        "value": 188,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 153,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 99,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 82,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 68,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2007,
+        "value": 198,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 141,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2017,
+        "value": 105,
+        "source": "SRS 2016-18",
+        "dataType": "official"
+      },
+      {
+        "year": 2020,
+        "value": 85,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 70,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2020,
+        "value": 75,
+        "source": "SRS 2018-20",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 60,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "tfr": {
+    "IN-KL": [
+      {
+        "year": 2000,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1.8,
+        "source": "NFHS-5 (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2000,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 1.8,
+        "source": "NFHS-5 (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2000,
+        "value": 4.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.35,
+        "source": "NFHS-5 (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.1,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2000,
+        "value": 4.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 3.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 2.98,
+        "source": "NFHS-5 (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.7,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2000,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.7,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2000,
+        "value": 3.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2.4,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "SRS 2022",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2000,
+        "value": 3.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.9,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2000,
+        "value": 2.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.9,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2000,
+        "value": 2.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.6,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2000,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.7,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2000,
+        "value": 3.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2.1,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2000,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.6,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2000,
+        "value": 2.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.9,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2000,
+        "value": 3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.9,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.9,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AP": [
+      {
+        "year": 2000,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.7,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.7,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2000,
+        "value": 3.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2.3,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.1,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2000,
+        "value": 3.3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2.2,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2005,
+        "value": 2.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.8,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2000,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.3,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.3,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2000,
+        "value": 2.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 1.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.5,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2005,
+        "value": 2.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2.2,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2005,
+        "value": 3.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 2.9,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.7,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2005,
+        "value": 2.9,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.9,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2005,
+        "value": 3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.5,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.7,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2005,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.1,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.1,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2005,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.7,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.7,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.6,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2000,
+        "value": 2.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2.2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.8,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2000,
+        "value": 2.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.3,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 2,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.4,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2000,
+        "value": 2.4,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2005,
+        "value": 2.1,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2010,
+        "value": 1.8,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2015,
+        "value": 1.6,
+        "source": "SRS",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 1.5,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.5,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2019,
+        "value": 1.3,
+        "source": "NFHS-5",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.3,
+        "source": "SRS Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}

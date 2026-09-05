@@ -1,0 +1,1824 @@
+{
+  "poverty_hcr": {
+    "IN-AP": [
+      {
+        "year": 2004,
+        "value": 29.6,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 9.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.12,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.3,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2004,
+        "value": 31.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 34.7,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 24.3,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 22.1,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2004,
+        "value": 34.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 32,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17.2,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 15.4,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2004,
+        "value": 54.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 33.7,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 33.76,
+        "source": "NITI Aayog MPI (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 26.6,
+        "source": "NITI Aayog Est.",
+        "dataType": "estimated"
+      },
+      {
+        "year": 2024,
+        "value": 24.2,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2004,
+        "value": 40.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 39.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 24.4,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 22,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2004,
+        "value": 25,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 5.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.63,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.2,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2004,
+        "value": 31.8,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 16.6,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.2,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.4,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2004,
+        "value": 24.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 11.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.43,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.9,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2004,
+        "value": 22.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 8.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.46,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.1,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2004,
+        "value": 45.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 36.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 28.81,
+        "source": "NITI Aayog MPI (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 28.8,
+        "source": "NITI Aayog Est.",
+        "dataType": "estimated"
+      },
+      {
+        "year": 2024,
+        "value": 26.1,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2004,
+        "value": 33.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 20.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.58,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.5,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2004,
+        "value": 19.7,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 7.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.55,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.4,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2004,
+        "value": 48.6,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 31.6,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 20.6,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18.2,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2004,
+        "value": 38.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 17.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.86,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.9,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2004,
+        "value": 36.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 36.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17.9,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 16,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2004,
+        "value": 33.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 11.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 27.79,
+        "source": "NITI Aayog MPI (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 11.5,
+        "source": "NITI Aayog Est.",
+        "dataType": "estimated"
+      },
+      {
+        "year": 2024,
+        "value": 10.2,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2004,
+        "value": 15.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 20.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 9.8,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 8.6,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2004,
+        "value": 18.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 18.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 7.9,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 6.8,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2004,
+        "value": 57.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 32.6,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 20.4,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 18,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2004,
+        "value": 20.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 8.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.42,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2004,
+        "value": 34.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 14.7,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 15.3,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 13.5,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2004,
+        "value": 31.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 8.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 3.82,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.2,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2004,
+        "value": 29.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 11.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.2,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.8,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2011,
+        "value": 9.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.88,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2004,
+        "value": 40.6,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 14.1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 10.7,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 9.3,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2004,
+        "value": 40.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 29.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2021,
+        "value": 22.93,
+        "source": "NITI Aayog MPI (2019-21)",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 17.4,
+        "source": "NITI Aayog Est.",
+        "dataType": "estimated"
+      },
+      {
+        "year": 2024,
+        "value": 15.1,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2004,
+        "value": 32.7,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 11.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 5.7,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 4.8,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2004,
+        "value": 34.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 19.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 12.5,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 10.8,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AN": [
+      {
+        "year": 2011,
+        "value": 1,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 0.8,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.6,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2011,
+        "value": 21.8,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.1,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.8,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2011,
+        "value": 39.3,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 6.8,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 5.6,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2004,
+        "value": 14.2,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 9.9,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 2.08,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.7,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2004,
+        "value": 25,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 10.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 4.6,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 3.9,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2022,
+        "value": 3.1,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 2.6,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2011,
+        "value": 2.8,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.5,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.1,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2004,
+        "value": 22.4,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 9.7,
+        "source": "Planning Commission",
+        "dataType": "official"
+      },
+      {
+        "year": 2022,
+        "value": 1.72,
+        "source": "NITI Aayog MPI",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 1.4,
+        "source": "MPI Est.",
+        "dataType": "estimated"
+      }
+    ]
+  },
+  "hdi": {
+    "IN-AP": [
+      {
+        "year": 2005,
+        "value": 0.485,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.567,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.65,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.668,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AR": [
+      {
+        "year": 2005,
+        "value": 0.456,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.517,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.586,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.6,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AS": [
+      {
+        "year": 2005,
+        "value": 0.444,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.514,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.592,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.608,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-BR": [
+      {
+        "year": 2005,
+        "value": 0.367,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.447,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.53,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.548,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CT": [
+      {
+        "year": 2005,
+        "value": 0.408,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.495,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.575,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.592,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GA": [
+      {
+        "year": 2005,
+        "value": 0.609,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.695,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.761,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.775,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-GJ": [
+      {
+        "year": 2005,
+        "value": 0.527,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.612,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.672,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.688,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HR": [
+      {
+        "year": 2005,
+        "value": 0.552,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.632,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.695,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.712,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-HP": [
+      {
+        "year": 2005,
+        "value": 0.58,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.655,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.725,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.74,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JH": [
+      {
+        "year": 2005,
+        "value": 0.376,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.462,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.545,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.562,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KA": [
+      {
+        "year": 2005,
+        "value": 0.539,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.628,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.692,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.71,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-KL": [
+      {
+        "year": 2005,
+        "value": 0.625,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.712,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.782,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.795,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MP": [
+      {
+        "year": 2005,
+        "value": 0.394,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.479,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.565,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.582,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MH": [
+      {
+        "year": 2005,
+        "value": 0.572,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.651,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.696,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.71,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MN": [
+      {
+        "year": 2005,
+        "value": 0.51,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.567,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.635,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.65,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-ML": [
+      {
+        "year": 2005,
+        "value": 0.498,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.564,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.625,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.64,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-MZ": [
+      {
+        "year": 2005,
+        "value": 0.55,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.621,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.685,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.7,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-NL": [
+      {
+        "year": 2005,
+        "value": 0.52,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.582,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.645,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.66,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-OR": [
+      {
+        "year": 2005,
+        "value": 0.404,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.494,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.58,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.598,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PB": [
+      {
+        "year": 2005,
+        "value": 0.569,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.643,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.714,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.73,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-RJ": [
+      {
+        "year": 2005,
+        "value": 0.434,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.522,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.601,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.618,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-SK": [
+      {
+        "year": 2005,
+        "value": 0.535,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.614,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.702,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.718,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TN": [
+      {
+        "year": 2005,
+        "value": 0.57,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.66,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.708,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.725,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TG": [
+      {
+        "year": 2011,
+        "value": 0.573,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.669,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.685,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-TR": [
+      {
+        "year": 2005,
+        "value": 0.468,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.545,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.628,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.645,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UP": [
+      {
+        "year": 2005,
+        "value": 0.38,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.468,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.548,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.565,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-UT": [
+      {
+        "year": 2005,
+        "value": 0.535,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.615,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.684,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.7,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-WB": [
+      {
+        "year": 2005,
+        "value": 0.468,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.549,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.622,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.638,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-AN": [
+      {
+        "year": 2011,
+        "value": 0.658,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.72,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.735,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-CH": [
+      {
+        "year": 2005,
+        "value": 0.612,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.702,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.77,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.785,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DN": [
+      {
+        "year": 2011,
+        "value": 0.552,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.63,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.648,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-DL": [
+      {
+        "year": 2005,
+        "value": 0.605,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.7,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.746,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.76,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-JK": [
+      {
+        "year": 2005,
+        "value": 0.489,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.572,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.648,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.665,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LA": [
+      {
+        "year": 2019,
+        "value": 0.64,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.658,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-LD": [
+      {
+        "year": 2011,
+        "value": 0.62,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.7,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.715,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ],
+    "IN-PY": [
+      {
+        "year": 2005,
+        "value": 0.575,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2011,
+        "value": 0.658,
+        "source": "IAMR",
+        "dataType": "official"
+      },
+      {
+        "year": 2019,
+        "value": 0.73,
+        "source": "GDL",
+        "dataType": "official"
+      },
+      {
+        "year": 2024,
+        "value": 0.745,
+        "source": "GDL Est.",
+        "dataType": "estimated"
+      }
+    ]
+  }
+}
