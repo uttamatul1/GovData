@@ -58,14 +58,7 @@ function diminishingFactor(ratio: number, sensitivity: number = 1): number {
   return Math.log(ratio) * sensitivity;
 }
 
-// Sigmoid clamp: smoothly limits value between min and max
-function sigmoidClamp(value: number, min: number, max: number): number {
-  const mid = (min + max) / 2;
-  const range = max - min;
-  // Map value to 0-1 range using sigmoid
-  const normalized = 1 / (1 + Math.exp(-4 * (value - mid) / range));
-  return min + normalized * range;
-}
+
 
 // ── Cross-sector context (computed once, shared across all formulas) ─────────
 export interface CrossSectorContext {
