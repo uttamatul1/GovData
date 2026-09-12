@@ -1,9 +1,10 @@
 import { SimulatorOutput } from '../SimulatorOutput';
 import { useEducationSimulator } from '../../../hooks/useSimulator';
 import { Card, CardContent } from '../../ui/card';
+import { Zap } from 'lucide-react';
 
 export function EducationSimulator() {
-  const { literacyRate, ger, derived, budget } = useEducationSimulator();
+  const { literacyRate, ger, derived, budget, crossEffects } = useEducationSimulator();
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 h-full">
@@ -19,9 +20,23 @@ export function EducationSimulator() {
         <DerivedInput label="Pupil-Teacher Ratio" value={`${derived.ptr}:1`} benchmark="RTE mandate: 30:1" />
         <DerivedInput label="Digital Classroom Coverage" value={`${derived.digital_classroom}%`} benchmark="Current: ~22%" />
 
+        {/* Cross-sector effects */}
+        {crossEffects.length > 0 && (
+          <div className="space-y-1.5 pt-3 border-t">
+            <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider flex items-center gap-1">
+              <Zap className="w-3 h-3 text-amber-500" /> Ripple Effects
+            </p>
+            {crossEffects.map((effect, i) => (
+              <p key={i} className="text-[10px] text-muted-foreground bg-muted/40 rounded px-2 py-1">
+                {effect}
+              </p>
+            ))}
+          </div>
+        )}
+
         <div className="mt-auto pt-3 border-t">
           <p className="text-[10px] text-muted-foreground italic">
-            More ₹ → higher % GDP spend, lower pupil-teacher ratios, more digital classrooms.
+            More ₹ → higher % GDP spend, lower pupil-teacher ratios, more digital classrooms. Social welfare (mid-day meals) also keeps kids in school.
           </p>
         </div>
       </div>
@@ -35,7 +50,7 @@ export function EducationSimulator() {
             currentValue={77.7}
             simulatedValue={literacyRate}
             higherIsBetter={true}
-            methodNote="Lit% ≈ 71.6 + 4.5×(edu_exp) - 0.3×(ptr_excess) + 0.2×(digital_cov)"
+            methodNote="High baseline = harder gains. Social welfare & infra (connectivity) provide cross-sector boosts."
             source="NSO Survey"
           />
           <SimulatorOutput
@@ -44,7 +59,7 @@ export function EducationSimulator() {
             currentValue={79.6}
             simulatedValue={ger}
             higherIsBetter={true}
-            methodNote="GER ≈ 74.4 + 5.0×(edu_exp) - 0.25×(ptr_excess) + 0.15×(digital_cov)"
+            methodNote="Responds to education spending + social welfare scholarships. Cuts cause rapid decline."
             source="UDISE+ 2021-22"
           />
         </div>

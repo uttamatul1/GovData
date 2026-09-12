@@ -14,9 +14,9 @@ export function TabNav() {
   const { setActiveTab } = useAppStore();
 
   return (
-    <nav className="border-b bg-muted/40 overflow-hidden">
+    <nav className="border-b bg-muted/30 overflow-hidden backdrop-blur-sm">
       <div className="container mx-auto px-1 sm:px-4">
-        <ul className="flex items-center justify-around sm:justify-start gap-0.5 sm:gap-1 py-0.5 whitespace-nowrap">
+        <ul className="flex items-center justify-around sm:justify-start gap-0.5 sm:gap-1 py-1 sm:py-1.5 whitespace-nowrap">
           {navItems.map((item) => {
             const Icon = item.icon;
             return (
@@ -26,10 +26,10 @@ export function TabNav() {
                   onClick={() => setActiveTab(item.id)}
                   className={({ isActive }) =>
                     cn(
-                      'flex items-center justify-center gap-1 sm:gap-2 px-1.5 sm:px-4 py-2 sm:py-3 text-[11px] sm:text-sm font-medium border-b-2 transition-colors',
+                      'flex items-center justify-center gap-1 sm:gap-2 px-2 sm:px-4 py-2 sm:py-2.5 text-[11px] sm:text-sm font-medium rounded-lg sm:rounded-xl transition-all duration-200',
                       isActive
-                        ? 'border-primary text-primary font-semibold'
-                        : 'border-transparent text-muted-foreground hover:text-foreground hover:border-muted-foreground/30'
+                        ? 'pill-tab-active text-primary font-semibold shadow-sm border'
+                        : 'text-muted-foreground hover:text-foreground hover:bg-muted/50 border border-transparent'
                     )
                   }
                 >

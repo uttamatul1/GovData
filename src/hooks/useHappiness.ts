@@ -2,23 +2,10 @@ import { useMemo, useRef, useEffect, useState } from 'react';
 import {
   useSimulatorStore,
   DEFAULT_DISCRETIONARY,
-  budgetToHealthInputs,
-  budgetToEducationInputs,
-  budgetToAgricultureInputs,
-  budgetToEconomyInputs,
+  getAllOutcomes,
   getRemainingBudget,
 } from '../store/simulator.store';
-import {
-  simulateIMR,
-  simulateU5MR,
-  simulateMMR,
-  simulateLiteracyRate,
-  simulateGER,
-  simulateGDPGrowth,
-  simulateInflation,
-  simulateAgriGrowth,
-  simulateFarmerIncome,
-} from '../utils/simulator.utils';
+import { BASELINES } from '../utils/simulator.utils';
 
 interface HappinessReason {
   text: string;
@@ -34,19 +21,6 @@ interface HappinessResult {
   delta: number; // change from previous
   showDialog: boolean;
 }
-
-// Baseline values (government actuals — must match SimulatorOutput currentValue props)
-const BASELINE = {
-  imr: 27,
-  u5mr: 35,
-  mmr: 97,
-  literacy: 80.9,    // PLFS 2023-24 national literacy (Age 7+)
-  ger: 79.6,         // Secondary GER (matches EducationSimulator)
-  gdpGrowth: 7.2,    // FY25 real GDP growth (matches EconomySimulator)
-  inflation: 5.4,
-  agriGrowth: 3.3,   // Agri GVA growth (matches AgricultureSimulator)
-  farmerIncome: 10218,
-};
 
 function getEmoji(score: number): string {
   if (score >= 90) return '🤩';
@@ -78,26 +52,23 @@ export function useHappiness(): HappinessResult {
     const reasons: HappinessReason[] = [];
     let totalPoints = 50; // Start at neutral baseline
 
-    // ─── Health impacts ───
-    const healthDerived = budgetToHealthInputs(allocations.health);
-    const simIMR = simulateIMR(healthDerived.health_gdp, healthDerived.phc_density, healthDerived.immunisation, healthDerived.sanitation);
-    const simU5MR = simulateU5MR(healthDerived.health_gdp, healthDerived.phc_density, healthDerived.immunisation, healthDerived.sanitation);
-    const simMMR = simulateMMR(healthDerived.health_gdp, healthDerived.phc_density, healthDerived.immunisation, healthDerived.sanitation);
+    // Compute ALL outcomes using the new centralized engine
+    const outcomes = getAllOutcomes(allocations);
+    const remaining = getRemainingBudget(allocations);
 
-    // IMR
-    const imrDelta = BASELINE.imr - simIMR;
+    // ─── Health impacts ───
+    const imrDelta = BASELINES.imr - outcomes.imr;
     if (imrDelta > 3) {
-      const pts = Math.min(12, Math.round(imrDelta * 1.5));
+      const pts = Math.min(12, Math.round(imrDelta * 1.2));
       totalPoints += pts;
       reasons.push({ text: `Infant mortality dropped by ${imrDelta} points — more babies surviving their first year!`, impact: 'positive', points: pts });
     } else if (imrDelta < -2) {
-      const pts = Math.max(-15, Math.round(imrDelta * 2));
+      const pts = Math.max(-15, Math.round(imrDelta * 1.5));
       totalPoints += pts;
       reasons.push({ text: `Infant mortality worsened by ${Math.abs(imrDelta)} points — more newborns at risk.`, impact: 'negative', points: pts });
     }
 
-    // MMR
-    const mmrDelta = BASELINE.mmr - simMMR;
+    const mmrDelta = BASELINES.mmr - outcomes.mmr;
     if (mmrDelta > 10) {
       const pts = Math.min(10, Math.round(mmrDelta / 5));
       totalPoints += pts;
@@ -108,8 +79,7 @@ export function useHappiness(): HappinessResult {
       reasons.push({ text: `Maternal mortality increased by ${Math.abs(mmrDelta)} — mothers face greater risk.`, impact: 'negative', points: pts });
     }
 
-    // U5MR
-    const u5mrDelta = BASELINE.u5mr - simU5MR;
+    const u5mrDelta = BASELINES.u5mr - outcomes.u5mr;
     if (u5mrDelta > 3) {
       const pts = Math.min(8, Math.round(u5mrDelta));
       totalPoints += pts;
@@ -121,89 +91,110 @@ export function useHappiness(): HappinessResult {
     }
 
     // ─── Education impacts ───
-    const eduDerived = budgetToEducationInputs(allocations.education);
-    const simLiteracy = simulateLiteracyRate(eduDerived.edu_exp, eduDerived.ptr, eduDerived.digital_classroom);
-    const simGER = simulateGER(eduDerived.edu_exp, eduDerived.ptr, eduDerived.digital_classroom);
-
-    const litDelta = simLiteracy - BASELINE.literacy;
+    const litDelta = outcomes.literacyRate - BASELINES.literacy;
     if (litDelta > 2) {
-      const pts = Math.min(8, Math.round(litDelta * 2));
+      const pts = Math.min(8, Math.round(litDelta * 1.5));
       totalPoints += pts;
-      reasons.push({ text: `Literacy rate improved to ${simLiteracy}% — a more educated population!`, impact: 'positive', points: pts });
+      reasons.push({ text: `Literacy rate improved to ${outcomes.literacyRate}% — a more educated India!`, impact: 'positive', points: pts });
     } else if (litDelta < -1) {
       const pts = Math.max(-8, Math.round(litDelta * 2));
       totalPoints += pts;
-      reasons.push({ text: `Literacy stagnated at ${simLiteracy}% — education system needs more investment.`, impact: 'negative', points: pts });
+      reasons.push({ text: `Literacy stagnated at ${outcomes.literacyRate}% — education system needs more investment.`, impact: 'negative', points: pts });
     }
 
-    const gerDelta = simGER - BASELINE.ger;
+    const gerDelta = outcomes.ger - BASELINES.ger;
     if (gerDelta > 3) {
       const pts = Math.min(6, Math.round(gerDelta));
       totalPoints += pts;
-      reasons.push({ text: `Higher education enrolment rose to ${simGER}% — more youth pursuing degrees.`, impact: 'positive', points: pts });
+      reasons.push({ text: `Higher education enrolment rose to ${outcomes.ger}% — more youth pursuing degrees.`, impact: 'positive', points: pts });
     } else if (gerDelta < -2) {
       const pts = Math.max(-6, Math.round(gerDelta));
       totalPoints += pts;
       reasons.push({ text: `Higher education access declined — fewer students can afford college.`, impact: 'negative', points: pts });
     }
 
-    // ─── Economy impacts ───
-    const econDerived = budgetToEconomyInputs(allocations.infrastructure);
-    const remaining = getRemainingBudget(allocations);
-    const effectiveDeficit = remaining < 0
-      ? econDerived.fiscal_deficit + (Math.abs(remaining) / 296) * 100
-      : econDerived.fiscal_deficit;
-
-    const simGDP = simulateGDPGrowth(econDerived.repo_rate, effectiveDeficit, econDerived.capex);
-    const simInflation = simulateInflation(econDerived.repo_rate, effectiveDeficit, econDerived.capex);
-
-    const gdpDelta = simGDP - BASELINE.gdpGrowth;
+    // ─── Economy impacts (with trade-off narratives) ───
+    const gdpDelta = outcomes.gdpGrowth - BASELINES.gdpGrowth;
     if (gdpDelta > 0.5) {
-      const pts = Math.min(10, Math.round(gdpDelta * 4));
+      const pts = Math.min(10, Math.round(gdpDelta * 3.5));
       totalPoints += pts;
-      reasons.push({ text: `GDP growth surged to ${simGDP}% — the economy is booming, creating jobs!`, impact: 'positive', points: pts });
+      reasons.push({ text: `GDP growth surged to ${outcomes.gdpGrowth}% — the economy is booming, creating jobs!`, impact: 'positive', points: pts });
     } else if (gdpDelta < -0.5) {
-      const pts = Math.max(-10, Math.round(gdpDelta * 4));
+      const pts = Math.max(-10, Math.round(gdpDelta * 3.5));
       totalPoints += pts;
-      reasons.push({ text: `GDP growth slowed to ${simGDP}% — economic slowdown threatens livelihoods.`, impact: 'negative', points: pts });
+      reasons.push({ text: `GDP growth slowed to ${outcomes.gdpGrowth}% — economic slowdown threatens livelihoods.`, impact: 'negative', points: pts });
     }
 
-    const inflationDelta = simInflation - BASELINE.inflation;
+    const inflationDelta = outcomes.inflation - BASELINES.inflation;
     if (inflationDelta > 1) {
-      const pts = Math.max(-12, Math.round(-inflationDelta * 3));
+      const pts = Math.max(-12, Math.round(-inflationDelta * 2.5));
       totalPoints += pts;
-      reasons.push({ text: `Inflation rose to ${simInflation}% — families struggle to afford essentials like food & fuel.`, impact: 'negative', points: pts });
+      reasons.push({ text: `Inflation rose to ${outcomes.inflation}% — families struggle to afford food & fuel.`, impact: 'negative', points: pts });
     } else if (inflationDelta < -0.5) {
-      const pts = Math.min(8, Math.round(Math.abs(inflationDelta) * 3));
+      const pts = Math.min(8, Math.round(Math.abs(inflationDelta) * 2.5));
       totalPoints += pts;
-      reasons.push({ text: `Inflation contained at ${simInflation}% — purchasing power improved for citizens.`, impact: 'positive', points: pts });
+      reasons.push({ text: `Inflation contained at ${outcomes.inflation}% — purchasing power improved for citizens.`, impact: 'positive', points: pts });
+    }
+
+    // ─── Cross-sector trade-off narratives (the fun part!) ───
+    // MSP hikes + food inflation trade-off
+    if (outcomes.ctx.agricultureRatio > 1.3 && outcomes.inflation > 6.5) {
+      const pts = -4;
+      totalPoints += pts;
+      reasons.push({ text: `High MSP support boosted farmer income but food prices rose — urban families are upset.`, impact: 'negative', points: pts });
+    }
+
+    // Infrastructure boom + inflation trade-off
+    if (outcomes.ctx.infrastructureRatio > 1.3 && outcomes.inflation > 6.5) {
+      const pts = -3;
+      totalPoints += pts;
+      reasons.push({ text: `Infrastructure spending generated jobs but demand-pull inflation is heating up the economy.`, impact: 'negative', points: pts });
+    }
+
+    // Employment gains
+    if (outcomes.employment > 10) {
+      const pts = Math.min(8, Math.round(outcomes.employment / 3));
+      totalPoints += pts;
+      reasons.push({ text: `Capital spending generated ~${Math.round(outcomes.employment)}L new jobs — youth are optimistic!`, impact: 'positive', points: pts });
+    } else if (outcomes.employment < -5) {
+      const pts = Math.max(-8, Math.round(outcomes.employment / 2));
+      totalPoints += pts;
+      reasons.push({ text: `Economic contraction destroyed ~${Math.abs(Math.round(outcomes.employment))}L jobs — unemployment crisis.`, impact: 'negative', points: pts });
     }
 
     // ─── Agriculture impacts ───
-    const agriDerived = budgetToAgricultureInputs(allocations.agriculture);
-    const simAgriGrowth = simulateAgriGrowth(agriDerived.msp_inc, agriDerived.irrigation, agriDerived.credit_growth);
-    const simFarmerIncome = simulateFarmerIncome(agriDerived.msp_inc, agriDerived.irrigation, agriDerived.credit_growth);
-
-    const agriDelta = simAgriGrowth - BASELINE.agriGrowth;
+    const agriDelta = outcomes.agriGrowth - BASELINES.agriGrowth;
     if (agriDelta > 0.5) {
-      const pts = Math.min(6, Math.round(agriDelta * 3));
+      const pts = Math.min(6, Math.round(agriDelta * 2.5));
       totalPoints += pts;
-      reasons.push({ text: `Agriculture growing at ${simAgriGrowth}% — farmers see better harvests!`, impact: 'positive', points: pts });
+      reasons.push({ text: `Agriculture growing at ${outcomes.agriGrowth}% — farmers see better harvests!`, impact: 'positive', points: pts });
     } else if (agriDelta < -0.5) {
-      const pts = Math.max(-6, Math.round(agriDelta * 3));
+      const pts = Math.max(-6, Math.round(agriDelta * 2.5));
       totalPoints += pts;
-      reasons.push({ text: `Agricultural growth slowed — rural distress increases.`, impact: 'negative', points: pts });
+      reasons.push({ text: `Agricultural growth slowed to ${outcomes.agriGrowth}% — rural distress increases.`, impact: 'negative', points: pts });
     }
 
-    const incomeDelta = simFarmerIncome - BASELINE.farmerIncome;
+    const incomeDelta = outcomes.farmerIncome - BASELINES.farmerIncome;
     if (incomeDelta > 1000) {
       const pts = Math.min(8, Math.round(incomeDelta / 500));
       totalPoints += pts;
-      reasons.push({ text: `Farmer income rose to ₹${simFarmerIncome.toLocaleString()}/month — rural prosperity!`, impact: 'positive', points: pts });
+      reasons.push({ text: `Farmer income rose to ₹${outcomes.farmerIncome.toLocaleString()}/month — rural prosperity!`, impact: 'positive', points: pts });
     } else if (incomeDelta < -500) {
-      const pts = Math.max(-8, Math.round(incomeDelta / 500));
+      const pts = Math.max(-8, Math.round(incomeDelta / 400));
       totalPoints += pts;
-      reasons.push({ text: `Farmer income dropped to ₹${simFarmerIncome.toLocaleString()}/month — agrarian crisis deepens.`, impact: 'negative', points: pts });
+      reasons.push({ text: `Farmer income dropped to ₹${outcomes.farmerIncome.toLocaleString()}/month — agrarian crisis deepens.`, impact: 'negative', points: pts });
+    }
+
+    // ─── Law & Safety impacts ───
+    const crimeDelta = BASELINES.crimeIndex - outcomes.crimeIndex;
+    if (crimeDelta > 20) {
+      const pts = Math.min(6, Math.round(crimeDelta / 10));
+      totalPoints += pts;
+      reasons.push({ text: `Crime index dropped to ${outcomes.crimeIndex} per lakh — streets are safer!`, impact: 'positive', points: pts });
+    } else if (crimeDelta < -10) {
+      const pts = Math.max(-6, Math.round(crimeDelta / 8));
+      totalPoints += pts;
+      reasons.push({ text: `Crime index rose to ${outcomes.crimeIndex} per lakh — public safety deteriorating.`, impact: 'negative', points: pts });
     }
 
     // ─── Fiscal health ───
@@ -255,7 +246,7 @@ export function useHappiness(): HappinessResult {
       score,
       emoji: getEmoji(score),
       label: getLabel(score),
-      reasons: reasons.slice(0, 6), // Show top 6 reasons
+      reasons: reasons.slice(0, 8), // Show top 8 reasons
     };
   }, [allocations]);
 

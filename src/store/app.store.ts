@@ -14,7 +14,7 @@ interface AppState {
 export const useAppStore = create<AppState>()(
   persist(
     (set) => ({
-      theme: 'light',
+      theme: 'dark',
       setTheme: (theme) => set({ theme }),
       activeTab: 'explore',
       setActiveTab: (tab) => set({ activeTab: tab }),

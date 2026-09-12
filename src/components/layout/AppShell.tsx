@@ -14,10 +14,10 @@ export function AppShell() {
   }, [theme]);
 
   return (
-    <div className="min-h-screen flex flex-col bg-background text-foreground transition-colors duration-200">
+    <div className="min-h-screen flex flex-col bg-background text-foreground transition-colors duration-300 data-mesh-bg">
       <Header />
       <TabNav />
-      <main className="flex-1 relative overflow-hidden flex flex-col">
+      <main className="flex-1 relative overflow-hidden flex flex-col z-10">
         <Outlet />
       </main>
     </div>

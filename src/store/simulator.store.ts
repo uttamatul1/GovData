@@ -1,4 +1,5 @@
 import { create } from 'zustand';
+import { computeAllOutcomes, type AllOutcomes } from '../utils/simulator.utils';
 
 // FY 2024-25 Union Budget figures in ₹ Lakh Crore
 export const TOTAL_BUDGET = 48.21; // Total expenditure
@@ -92,20 +93,27 @@ export function getRemainingBudget(allocs: BudgetAllocations): number {
   return TOTAL_BUDGET - totalExpenditure;
 }
 
-// Map budget allocations to policy simulator inputs
+// ── Centralized outcome computation ─────────────────────────────────────────
+// Single function that takes the full budget and returns ALL projected metrics.
+// This is the key change: cross-sector effects are computed in one pass.
+export function getAllOutcomes(allocs: BudgetAllocations): AllOutcomes {
+  return computeAllOutcomes(allocs, TOTAL_FIXED, TOTAL_BUDGET);
+}
+
+// ── Derived health inputs (for display in simulator panels) ─────────────────
 export function budgetToHealthInputs(healthBudget: number): {
   health_gdp: number;
   phc_density: number;
   immunisation: number;
   sanitation: number;
 } {
-  // India's GDP ~₹296 lakh crore (FY24). Health budget as % GDP:
   const gdpLakhCrore = 296;
   const healthGdpPct = (healthBudget / gdpLakhCrore) * 100;
-  // More budget → more PHCs, better immunisation, better sanitation
-  const phcDensity = 3.0 + (healthBudget / 0.89) * 1.6; // Scale from baseline
-  const immunisation = 60 + Math.min(40, (healthBudget / 0.89) * 16);
-  const sanitation = 50 + Math.min(50, (healthBudget / 0.89) * 20);
+  const ratio = healthBudget / DEFAULT_DISCRETIONARY.health;
+  // More budget → more PHCs, better immunisation, better sanitation (with diminishing returns)
+  const phcDensity = 4.6 * Math.pow(ratio, 0.4);
+  const immunisation = Math.min(100, 76 * Math.pow(ratio, 0.3));
+  const sanitation = Math.min(100, 70 * Math.pow(ratio, 0.35));
 
   return {
     health_gdp: Math.round(healthGdpPct * 100) / 100,
@@ -122,14 +130,15 @@ export function budgetToEducationInputs(eduBudget: number): {
 } {
   const gdpLakhCrore = 296;
   const eduExpPct = (eduBudget / gdpLakhCrore) * 100;
+  const ratio = eduBudget / DEFAULT_DISCRETIONARY.education;
   // More budget → lower PTR (more teachers), more digital classrooms
-  const ptr = Math.max(10, 35 - (eduBudget / 1.13) * 9);
-  const digital = Math.min(100, (eduBudget / 1.13) * 22);
+  const ptr = Math.max(10, Math.round(26 / Math.pow(ratio, 0.35)));
+  const digital = Math.min(100, Math.round(22 * Math.pow(ratio, 0.5)));
 
   return {
     edu_exp: Math.round(eduExpPct * 100) / 100,
-    ptr: Math.round(ptr),
-    digital_classroom: Math.round(digital),
+    ptr,
+    digital_classroom: digital,
   };
 }
 
@@ -138,29 +147,30 @@ export function budgetToAgricultureInputs(agriBudget: number): {
   irrigation: number;
   credit_growth: number;
 } {
-  // More budget → higher MSP hikes possible, irrigation expansion, credit flow
-  const mspInc = (agriBudget / 1.27) * 5;
-  const irrigation = 40 + Math.min(60, (agriBudget / 1.27) * 13);
-  const creditGrowth = (agriBudget / 1.27) * 12;
+  const ratio = agriBudget / DEFAULT_DISCRETIONARY.agriculture;
+  const mspInc = Math.round(5 * Math.pow(ratio, 0.6) * 10) / 10;
+  const irrigation = Math.min(100, Math.round(53 * Math.pow(ratio, 0.4)));
+  const creditGrowth = Math.round(12 * Math.pow(ratio, 0.5) * 10) / 10;
 
   return {
-    msp_inc: Math.round(mspInc * 10) / 10,
-    irrigation: Math.min(100, Math.round(irrigation)),
-    credit_growth: Math.round(creditGrowth * 10) / 10,
+    msp_inc: mspInc,
+    irrigation,
+    credit_growth: creditGrowth,
   };
 }
 
-export function budgetToEconomyInputs(infraBudget: number): {
+export function budgetToEconomyInputs(infraBudget: number, allocs: BudgetAllocations): {
   capex: number;
   repo_rate: number;
   fiscal_deficit: number;
 } {
   const gdpLakhCrore = 296;
   const capexPct = (infraBudget / gdpLakhCrore) * 100;
+  const outcomes = getAllOutcomes(allocs);
 
   return {
     capex: Math.round(capexPct * 100) / 100,
-    repo_rate: 6.5,       // RBI decides this, not budget
-    fiscal_deficit: 5.9,   // Derived from total spending
+    repo_rate: outcomes.repoRate,
+    fiscal_deficit: outcomes.fiscalDeficit,
   };
 }
